@@ -83,7 +83,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Date    | Topics  | Notes | Readings |
 | :------ | :------ | :------  | :------ |
 | **Week 1** | | | |
-| Wed <br> Aug 30 | [Course Overview: Administrivia and What is AI?](files/slides/471-01-intro.pdf) | |
+| Wed <br> Aug 30 | [Course Overview: Administrivia and What is AI?](assets/471-01-intro.pdf) | |
 | **Week 2** | | | |
 | Mon <br> Sep 04 | Labor Day <br> No Classes | | |
 | Wed <br> Sep 06 | Agents, and Agent Architectures | |
