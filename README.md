@@ -79,6 +79,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 > This syllabus and schedule is preliminary and subject to change.
 > Abbreviations refer to the following:
 > - RN: Russel/Norvig
+> - PM: [DAVID L. POOLE & ALAN K. MACKWORTH, ARTIFICIAL INTELLIGENCE 3E, FOUNDATIONS OF COMPUTATIONAL AGENTS](https://artint.info/3e/html/ArtInt3e.html)
 
 | Date    | Topics  | Notes | Readings |
 | :------           | :------                                                                   | :------   | :------   |
@@ -86,10 +87,10 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Aug 30   | [Course Overview: Administrivia and What is AI?](assets/471-01-intro.pdf) | [Survey](https://PollEv.com/surveys/W7ZNnGE7LSnIfIyL2SuFE/respond)| RN1       |
 | **Week 2** | | | |
 | Mon <br> Sep 04 | Labor Day <br> No Classes | | |
-| Wed <br> Sep 06 | Agents, and Agent Architectures | |
+| Wed <br> Sep 06 | (Agents, and Agent Architectures](assets/471-02-ai-agents.pdf) |  RN2, PM [2.1](https://artint.info/3e/html/ArtInt3e.Ch2.S1.html), [2.2](https://artint.info/3e/html/ArtInt3e.Ch2.S2.html) |
 | **Week 3** | | | |
 | Mon <br> Sep 11 | Problem solving as search | |
-| Wed <br> Sep 13 | Uninformed search | |
+| Wed <br> Sep 13 | Uninformed search | HW1 will be out |                                <!-- Class# 4 -->
 | **Week 4** | | | |
 | Mon <br> Sep 18 | Informed search: Heuristic Search | |
 | Wed <br> Sep 20 | Informed search: Local and Online Search | |
@@ -98,7 +99,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Sep 27 | Constraint Reasoning | |
 | **Week 6** | Adversarial Search (Games)| | |
 | Mon <br> Oct 02 |  | |
-| Wed <br> Oct 04 |  | |
+| Wed <br> Oct 04 |  | |                                                <!-- Class# 10 -->
 | **Week 7** | Reasoning Agents | | |
 | Mon <br> Oct 09 | Game Theory | |
 | Wed <br> Oct 11 | Knowledge Representation | |
@@ -447,5 +448,7 @@ Just the Class requires no special Jekyll plugins and can run on GitHub Pages' s
 This class borrows inspirations from several incredible sources.
 <!-- The final project structure and accompanying instructions are inspired and adapted from my Ph.D. advisor, Jen Rexford's COS 561 class of Fall 2020 at Princeton and Nick McKeown's CS 244 class at Stanford. -->
 The lecture slides' material is partially adapted from my colleagues, Tim Finin and Frank Ferraro's class at UMBC.
+
+<!-- Programming assignment 1 is based on a similar assignment offered at Princeton by Nick Feamster. -->
 
 <!-- Programming assignment 1 is based on a similar assignment offered at Princeton by Nick Feamster. -->
