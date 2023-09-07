@@ -84,10 +84,10 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Date    | Topics  | Notes | Readings |
 | :------           | :------                                                                   | :------   | :------   |
 | **Week 1** | | | |
-| Wed <br> Aug 30   | [Course Overview: Administrivia and What is AI?](assets/471-01-intro.pdf) | [Survey](https://PollEv.com/surveys/W7ZNnGE7LSnIfIyL2SuFE/respond)| RN1       |
+| Wed <br> Aug 30   | [Course Overview: Administrivia and What is AI?](assets/471-01-intro.pdf) | [Survey](https://PollEv.com/surveys/W7ZNnGE7LSnIfIyL2SuFE/respond)| RN1  |  
 | **Week 2** | | | |
 | Mon <br> Sep 04 | Labor Day <br> No Classes | | |
-| Wed <br> Sep 06 | [Agents, and Agent Architectures](assets/471-02-ai-agents.pdf) |  RN2, PM [2.1](https://artint.info/3e/html/ArtInt3e.Ch2.S1.html), [2.2](https://artint.info/3e/html/ArtInt3e.Ch2.S2.html) |
+| Wed <br> Sep 06 | [Agents, and Agent Architectures](assets/471-02-ai-agents.pdf) |  | RN2, PM [2.1](https://artint.info/3e/html/ArtInt3e.Ch2.S1.html), [2.2](https://artint.info/3e/html/ArtInt3e.Ch2.S2.html)|
 | **Week 3** | | | |
 | Mon <br> Sep 11 | Problem solving as search | |
 | Wed <br> Sep 13 | Uninformed search | HW1 will be out |                                <!-- Class# 4 -->
