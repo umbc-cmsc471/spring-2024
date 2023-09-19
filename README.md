@@ -92,10 +92,10 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 3** | | | |
 | Mon <br> Sep 11 | [Problem solving as search](assets/471-03-search-01.pdf) | **Quiz 01** is out in BB | RN 3.1-3.3 
 | Wed <br> Sep 13 | [Uninformed search](assets/471-03-search-02.pdf) |  | RN 3.4                          <!-- Class# 4 -->
-| Fri <br> Sep 15 |  | Quiz 01 is due; **Quiz 02** is out in BB  | |     
+| Fri <br> Sep 15 |  | Quiz 01 is due on 09/14; **Quiz 02** is out in BB  | |     
 | **Week 4** | | | |
-| Mon <br> Sep 18 | Informed search: Heuristic Search | HW1 will be out |
-| Wed <br> Sep 20 | Informed search: Local and Online Search | |
+| Mon <br> Sep 18 | [Informed search: Heuristic Search](assets/471-03-search-03.pdf) | | RN 3.5
+| Wed <br> Sep 20 | Informed search: Local and Online Search | HW1 will be out by this week  |
 | **Week 5** | Constraints | | |
 | Mon <br> Sep 25 | Constraint Satisfaction Problem | |
 | Wed <br> Sep 27 | Constraint Reasoning | |
