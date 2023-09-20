@@ -29,7 +29,7 @@ seo:
 ## Logistics 
 
 - Instructor: KMA Solaiman, <mailto:ksolaima@umbc.edu>
-- Teaching assistant: Prasanna Bollineni, <mailto:lakshmb1@umbc.edu>
+- Teaching assistant: Prasanna Bollineni (<mailto:lakshmb1@umbc.edu>), Shashank Sacheti (<mailto:ssachet1@umbc.edu>)
 <!-- - Grader: -->
 - Lecture time: **MW 2:30-3:45pm** *(01)*, **MW 5:30-6:45pm** *(02)*
 - Location: `SONDHEIM 103` (01), `ENGG 022` (02)
@@ -39,7 +39,8 @@ seo:
 - Exam and assignment submissions: [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#)
 - Office hours
   - `Wed 1-2pm, or by appointment` *(more if needed)*,  ITE 201-C, KMA Solaiman 
-  - `MW 11:30-12:30pm, or by appointment`, ITE 334, Prasanna Bollineni
+  - `Mon 11:30-12:30pm, or by appointment`, ITE 334, Prasanna Bollineni
+  - `Wed 12-1pm, or by appointment`, ITE 334, Shashank Sacheti
 
 > **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/c/G38B2595B/feed).
 <!-- and [Gradescope](https://www.gradescope.com/courses/417566). -->
@@ -95,7 +96,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Fri <br> Sep 15 |  | Quiz 01 is due on 09/14; **Quiz 02** is out in BB  | |     
 | **Week 4** | | | |
 | Mon <br> Sep 18 | [Informed search: Heuristic Search](assets/471-03-search-03.pdf) | | RN 3.5
-| Wed <br> Sep 20 | Informed search: Local and Online Search | HW1 will be out by this week  |
+| Wed <br> Sep 20 | [Informed search: A* Search](assets/471-03-search-04.pdf)  | HW1 will be out by this week  | <!-- Local and Online Search -->
 | **Week 5** | Constraints | | |
 | Mon <br> Sep 25 | Constraint Satisfaction Problem | |
 | Wed <br> Sep 27 | Constraint Reasoning | |
