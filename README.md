@@ -96,9 +96,9 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Fri <br> Sep 15 |  | Quiz 01 is due on 09/14; **Quiz 02** is out in BB  | |     
 | **Week 4** | | | |
 | Mon <br> Sep 18 | [Informed search: Heuristic Search](assets/471-03-search-03.pdf) | | RN 3.5
-| Wed <br> Sep 20 | [Informed search: A* Search](assets/471-03-search-04.pdf)  | HW1 will be out by this week  | RN 3.5, [Route-Finding-Example](assets/images/Route-Finding.png), [A\*-Search-on-Route-Finding](assets/images/Route-Finding-A*.png) <!-- Local and Online Search -->
+| Wed <br> Sep 20 | [Informed search: A* Search](assets/471-03-search-04.pdf)  | **HW1 is out in BB**  | RN 3.5, [Route-Finding-Example](assets/images/Route-Finding.png), [A\*-Search-on-Route-Finding](assets/images/Route-Finding-A*.png) <!-- Local and Online Search -->
 | **Week 5** | Constraints | | |
-| Mon <br> Sep 25 | [Local and Online Search](assets/471-04-local-search.pdf) | RN 4.1 |
+| Mon <br> Sep 25 | [Local and Online Search](assets/471-04-local-search.pdf) | | RN 4.1
 | Wed <br> Sep 27 | Constraint Satisfaction Problem, Constraint Reasoning | |
 | **Week 6** | Adversarial Search (Games)| | |
 | Mon <br> Oct 02 |  | |
