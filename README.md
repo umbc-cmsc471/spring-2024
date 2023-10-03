@@ -100,11 +100,11 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 5** | Constraints | | |
 | Mon <br> Sep 25 | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
 | Wed <br> Sep 27 | Class Cancelled / Makeup Later | |
-| **Week 6** | Adversarial Search (Games)| | |
+| **Week 6** | | | |
 | Mon <br> Oct 02 | [Local and Online Search, Genetic Algorithm](assets/471-04-local-search-v2.pdf) |  | RN 4.1, 4.5
 | Wed <br> Oct 04 | Constraint Satisfaction Problem, Constraint Reasoning | | RN 6.1                                               <!-- Class# 10 -->
 | **Week 7** | | | |
-| Mon <br> Oct 09 | Constraint Reasoning | | RN 6.2-6.5                                   <!--Game Theory-->
+| Mon <br> Oct 09 | Constraint Reasoning | | RN 6.2-6.5                                   <!--Adversarial Search (Games), Game Theory-->
 | Wed <br> Oct 11 | Knowledge Representation | |
 | **Week 8** | Reasoning Agents | | |
 | Mon <br> Oct 16 | Reasoning with Propositional Logic | |
