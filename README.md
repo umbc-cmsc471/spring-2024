@@ -102,7 +102,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Sep 27 | Class Cancelled / Makeup Later | |
 | **Week 6** | | | |
 | Mon <br> Oct 02 | [Local and Online Search, Genetic Algorithm](assets/471-04-local-search-v2.pdf) |  | RN 4.1, 4.5
-| Wed <br> Oct 04 | Constraint Satisfaction Problem, Constraint Reasoning | | RN 6.1                                               <!-- Class# 10 -->
+| Wed <br> Oct 04 | [Constraint Satisfaction Problem, Constraint Reasoning](assets/471-05-CSP-1.pdf) | | RN 6.1                                               <!-- Class# 10 -->
 | **Week 7** | | | |
 | Mon <br> Oct 09 | Constraint Reasoning | | RN 6.2-6.5                                   <!--Adversarial Search (Games), Game Theory-->
 | Wed <br> Oct 11 | Knowledge Representation | |
