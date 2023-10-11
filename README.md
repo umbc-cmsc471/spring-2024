@@ -105,7 +105,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Oct 04 | [Constraint Satisfaction Problem](assets/471-05-CSP-1.pdf) | [CSP Demos](https://inst.eecs.berkeley.edu/~cs188/fa21/assets/demos/csp/csp_demos.html)| RN 6.1                                               <!-- Class# 10 -->
 | **Week 7** | | | |
 | Mon <br> Oct 09 | [Constraint Propagation, Backtracking search for CSPs](assets/471-05-CSP-2.pptx) | | RN 6.2-6.3.2                                   <!--Adversarial Search (Games), Game Theory-->
-| Wed <br> Oct 11 | Local search and Structure Improvement for CSPs | | RN 6.4-6.5
+| Wed <br> Oct 11 | [Local search and Structure Improvement for CSPs](assets/471-05-CSP-3.pdf)| | RN 6.4-6.5.2
 | **Week 8** | Reasoning Agents | | <!--Release video lectures, self study--> | 
 | Mon <br> Oct 16 | Knowledge Representation, Reasoning with Propositional Logic | |
 | Wed <br> Oct 18 | First Order Logic | |
