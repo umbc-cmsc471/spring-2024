@@ -106,11 +106,11 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 7** | | | |
 | Mon <br> Oct 09 | [Constraint Propagation, Backtracking search for CSPs](assets/471-05-CSP-2.pptx) | | RN 6.2-6.3.2                                   <!--Adversarial Search (Games), Game Theory-->
 | Wed <br> Oct 11 | [Local search and Structure Improvement for CSPs](assets/471-05-CSP-3.pdf)| [csp_python](assets/csp_python.pdf), **HW2 is out in BB**| RN 6.4-6.5.2
-| **Week 8** | Reasoning Agents | | <!--Release video lectures, self study--> | 
-| Mon <br> Oct 16 | Knowledge Representation, Reasoning with Propositional Logic | |
-| Wed <br> Oct 18 | First Order Logic | |
+| **Week 8** | | | <!--Reasoning Agents, Release video lectures, self study--> | 
+| Mon <br> Oct 16 | [Games, MiniMax](assets/471-06-games-1.pdf) | | <!--Knowledge Representation, Reasoning with Propositional Logic-->
+| Wed <br> Oct 18 |  | | <!-First Order Logic, FOL inference-->
 | **Week 9** | | | | 
-| Mon <br> Oct 23 | FOL inference, *Midterm Discussion* | |
+| Mon <br> Oct 23 | *Midterm Discussion* | |
 | Wed <br> Oct 25 | **Midterm Exam** | | |
 | **Week 10** | | | |
 | Mon <br> Oct 30 | Some AI techniques in ML | Examples of Search, Logic; Constraint Extension: ILP |
