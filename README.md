@@ -108,7 +108,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Oct 11 | [Local search and Structure Improvement for CSPs](assets/471-05-CSP-3.pdf)| [csp_python](assets/csp_python.pdf), **HW2 is out in BB**| RN 6.4-6.5.2
 | **Week 8** | | | <!--Reasoning Agents, Release video lectures, self study--> | 
 | Mon <br> Oct 16 | [Games, MiniMax](assets/471-06-games-1.pdf) | | RN 5.1-5.3 <!--Knowledge Representation, Reasoning with Propositional Logic ;; First Order Logic, FOL inference-->
-| Wed <br> Oct 18 |  |  |  
+| Wed <br> Oct 18 | [Stochastic Minimax, MCTS](assets/471-06-games-2.pdf) | [A comprehensive guide to MCTS algorithm with working example](https://youtu.be/UXW2yZndl7U?feature=shared) | RN 5.4,5.5,5.7  
 | **Week 9** | | | | 
 | Mon <br> Oct 23 | *Midterm Discussion* | |
 | Wed <br> Oct 25 | **Midterm Exam** | | |
