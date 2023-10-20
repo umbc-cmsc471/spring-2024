@@ -11,7 +11,7 @@ This page will be updated shortly before the midterm and final exams to reflect 
 
 ## <span style="color:blue">Reading Guide: </span>
 
-(1) The exam will be based on the concepts, techniques and algorithms discussed in our text books (AIMI 4th edition, and a little of poole and macworth) and in class.
+(1) The exam will be based on the concepts, techniques and algorithms discussed in our text books (AIMI 4th edition) and in class.
 
 (2) It's important to have read chapters 1-6 in our text. Specifically:
 
