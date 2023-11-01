@@ -113,10 +113,10 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Oct 23 | *Midterm Discussion* | |
 | Wed <br> Oct 25 | **Midterm Exam** | | |
 | **Week 10** | | | |
-| Mon <br> Oct 30 | Some AI techniques in ML | Examples of Search, Logic; Constraint Extension: ILP |
-| Wed <br> Nov 01 | Probability & Bayesian Reasoning | |
+| Mon <br> Oct 30 | [Propositional Logic](assets/471-07-logic.pdf) |
+| Wed <br> Nov 01 | [First order logic](assets/471-07-logic.pdf) | Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP | |
 | **Week 11** | | | |
-| Mon <br> Nov 06 | Reasoning with BBNs | |
+| Mon <br> Nov 06 | Probability & Bayesian Reasoning, Reasoning with BBNs | |
 | Wed <br> Nov 08 | Planning (without uncertainty)| |
 | **Week 12** | | | |
 | Mon <br> Nov 13 | Reinforcement Learning/Probabilistic Planning | MDP, Rewards, and State Space |
