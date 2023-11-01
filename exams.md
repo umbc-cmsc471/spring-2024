@@ -60,11 +60,11 @@ Know how to simulate these algorithms.
 - Understanding of MCTS algorithm
 
 ## <span style="color:blue">Sample Questions </span>
-I am providing some sample exams. Courtesy of Dr. Tim Finin from his previous offerings. Some old midterms from CMSC 471 course:
+I am providing some sample exams. Courtesy of Dr. Tim Finin from his previous offerings. Please ignore the questions about game theory. Some old midterms from CMSC 471 course:
 
 
-- [2019-midterm-exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt19.pdf) with [solution](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt19a.pdf)
-- [2018-midterm-exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt18.pdf) with [solution](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt18a.pdf)
+- [2019-midterm-exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt19.pdf) with [solution](assets/midterm/mt19a.pdf)
+- [2018-midterm-exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt18.pdf) with [solution](assets/midterm/mt18a.pdf)
 - [2017 midterm exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt17.pdf) with [answers](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt17a.pdf)
 - [2016 midterm exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt16.pdf) with [answers](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt16a.pdf)
 
