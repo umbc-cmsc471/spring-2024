@@ -194,7 +194,7 @@ will be provided with each assigned item.
 
 ### Extensions and Late Policy
 
-Personal or one-off extensions will not be granted. Instead, everyone in this course has **ten (10) late days** to use as needed throughout the course. These are meant for personal reasons and
+Personal or one-off extensions will not be granted. Instead, everyone in this course has **ten (10) late days (3 days maximum per assignment)** to use as needed throughout the course. These are meant for personal reasons and
 emergencies; do not use them as an excuse to procrastinate. Late days are measured in 24 hour
 blocks after a deadline. They are **not fractional**: an assignment turned in between 1 minute and
 23 hours, 59 minutes (1,439 minutes) after the deadline uses one late day, an assignment turned in
