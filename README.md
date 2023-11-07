@@ -113,8 +113,8 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Oct 23 | *Midterm Discussion* | |
 | Wed <br> Oct 25 | **Midterm Exam** | | |
 | **Week 10** | | | |
-| Mon <br> Oct 30 | [Propositional Logic](assets/471-07-logic.pdf) |
-| Wed <br> Nov 01 | [First order logic](assets/471-07-logic.pdf) | | |
+| Mon <br> Oct 30 | [Propositional Logic](assets/471-07-logic.pdf) | | RN 7.1-7.7
+| Wed <br> Nov 01 | [First order logic](assets/471-07-logic.pdf) | | RN 8.1-8.3, 9.1
 | **Week 11** | | | |
 | Mon <br> Nov 06 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
 | Wed <br> Nov 08 | No Class | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP |
