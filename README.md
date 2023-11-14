@@ -119,7 +119,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Nov 06 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
 | Wed <br> Nov 08 | No Class | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP |
 | **Week 12** | | | |
-| Mon <br> Nov 13 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01.pdf) | RN 12 |
+| Mon <br> Nov 13 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01.pdf) | |  RN 12
 | Wed <br> Nov 15 | Reasoning with BBNs, Planning (without uncertainty) |
 | **Week 13** | Machine Learning | | |
 | Mon <br> Nov 20 | Reinforcement Learning/Probabilistic Planning | MDP, Rewards, and State Space | |
