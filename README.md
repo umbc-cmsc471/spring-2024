@@ -120,16 +120,16 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Nov 08 | No Class | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP |
 | **Week 12** | | | |
 | Mon <br> Nov 13 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01-v2.pdf) | |  RN 12
-| Wed <br> Nov 15 | [Reasoning with BBNs](assets/471-08-bayes-02.pdf), Planning (without uncertainty) |
-| **Week 13** | Machine Learning | | |
-| Mon <br> Nov 20 | Reinforcement Learning/Probabilistic Planning | MDP, Rewards, and State Space | |
+| Wed <br> Nov 15 | [Reasoning with BBNs](assets/471-08-bayes-02-v2.pdf) |
+| **Week 13** | | | |
+| Mon <br> Nov 20 | [Variable Elimination, Planning (without uncertainty): Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
 | Wed <br> Nov 22 | Machine Learning: Decision Trees, Supervised Learning, Regression | |
 | **Week 14** | Machine Learning | | |
 | Mon <br> Nov 27 | SVMs, Clustering | |
 | Wed <br> Nov 29 | Bagging | |
 | **Week 15** | Neural Networks | | |
-| Mon <br> Dec 04 | Feed Forward | |
-| Wed <br> Dec 06 | ML Tools | |
+| Mon <br> Dec 04 | Feed Forward, ML Tools | |
+| Wed <br> Dec 06 | Reinforcement Learning/Probabilistic Planning | MDP, Rewards, and State Space | |
 | **Week 16** | | | |
 | Mon <br> Dec 11 | Word Embedding, Transformers | |
 | Wed <br> Dec 13 | Study Day <br> No Classes | | |
