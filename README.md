@@ -99,7 +99,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Sep 20 | [Informed search: A* Search](assets/471-03-search-04.pdf)  | **HW1 is out in BB**  | RN 3.5, [Route-Finding-Example](assets/images/Route-Finding.png), [A\*-Search-on-Route-Finding](assets/images/Route-Finding-A*.png), [PM 3.7](https://artint.info/3e/html/ArtInt3e.Ch3.S7.html) <!-- Local and Online Search -->
 | **Week 5** | Constraints | | |
 | Mon <br> Sep 25 | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
-| Wed <br> Sep 27 | Class Cancelled / Makeup Later | |
+| Wed <br> Sep 27 | Class Cancelled | |
 | **Week 6** | | | |
 | Mon <br> Oct 02 | [Local and Online Search, Genetic Algorithm](assets/471-04-local-search-v2.pdf) |  | RN 4.1, 4.5
 | Wed <br> Oct 04 | [Constraint Satisfaction Problem](assets/471-05-CSP-1.pdf) | [CSP Demos](https://inst.eecs.berkeley.edu/~cs188/fa21/assets/demos/csp/csp_demos.html)| RN 6.1                                               <!-- Class# 10 -->
@@ -117,18 +117,18 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Nov 01 | [First order logic](assets/471-07-logic.pdf) | | RN 8.1-8.3, 9.1
 | **Week 11** | | | |
 | Mon <br> Nov 06 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
-| Wed <br> Nov 08 | No Class | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP |
+| Wed <br> Nov 08 | No Class <!--Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP--> |  | 
 | **Week 12** | | | |
 | Mon <br> Nov 13 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01-v2.pdf) | |  RN 12
 | Wed <br> Nov 15 | [Reasoning with BBNs](assets/471-08-bayes-02-v2.pdf) | | RN 13.1, 13.2
 | **Week 13** | | | |
-| Mon <br> Nov 20 | [Variable Elimination, Planning (without uncertainty): Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
-| Wed <br> Nov 22 | Machine Learning: Decision Trees, Supervised Learning, Regression | |
-| **Week 14** | Machine Learning | | |
-| Mon <br> Nov 27 | SVMs, Clustering | |
-| Wed <br> Nov 29 | Bagging | |
-| **Week 15** | Neural Networks | | |
-| Mon <br> Dec 04 | Feed Forward, ML Tools | |
+| Mon <br> Nov 20 | [BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
+| Wed <br> Nov 22 | Machine Learning: Supervised Learning, Regression | Video Lecture: Decision Trees, Bagging, Random Forest, Ensemble Learning |
+| **Week 14** | | | |
+| Mon <br> Nov 27 | SVMs, Clustering | Video Lçecture: ML Tools, Evaluation |
+| Wed <br> Nov 29 | Neural Networks, Feed Forward | |
+| **Week 15** |  | | |
+| Mon <br> Dec 04 | Planning (without uncertainty) | |
 | Wed <br> Dec 06 | Reinforcement Learning/Probabilistic Planning | MDP, Rewards, and State Space | |
 | **Week 16** | | | |
 | Mon <br> Dec 11 | Word Embedding, Transformers | |
