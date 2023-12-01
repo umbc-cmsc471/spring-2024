@@ -126,12 +126,12 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Nov 22 | [Machine Learning: Supervised Learning, Regression](assets/471-09-ML-01.pdf);  [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9af7eb2-66f6-4b2e-8f60-b0c2015948b6) | [Decision Trees, Bagging, Random Forest, Ensemble Learning](assets/471-09-ML-02-Decision-Tree-Ensembling.pdf);  [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) |
 | **Week 14** | | | |
 | Mon <br> Nov 27 | [Logistic Regression, ML Tools, Evaluation](assets/471-09-ML-02.pdf) |  | [Colab Notebooks](https://drive.google.com/drive/folders/18dC6XVnn0-rBAhmDsbUCc_y2jZtphrpu)
-| Wed <br> Nov 29 | SVMs, Clustering, Neural Networks, Feed Forward | |
+| Wed <br> Nov 29 | [Support Vector Machines](assets/471-09-ML-03.pdf) | |
 | **Week 15** |  | | |
-| Mon <br> Dec 04 | Planning (without uncertainty) | |
-| Wed <br> Dec 06 | Reinforcement Learning/Probabilistic Planning | MDP, Rewards, and State Space | |
+| Mon <br> Dec 04 | Neural Networks | |
+| Wed <br> Dec 06 | Planning (without uncertainty) | | |
 | **Week 16** | | | |
-| Mon <br> Dec 11 | Word Embedding, Transformers | |
+| Mon <br> Dec 11 | Reinforcement Learning/Probabilistic Planning | |
 | Wed <br> Dec 13 | Study Day <br> No Classes | | |
 | **Week 17** | | | |
 | Fri <br> Dec 15 | *Final Exam* | | |
