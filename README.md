@@ -128,7 +128,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Nov 27 | [Logistic Regression, ML Tools, Evaluation](assets/471-09-ML-02.pdf) |  | [Colab Notebooks](https://drive.google.com/drive/folders/18dC6XVnn0-rBAhmDsbUCc_y2jZtphrpu)
 | Wed <br> Nov 29 | [Support Vector Machines](assets/471-09-ML-03.pdf) | |
 | **Week 15** |  | | |
-| Mon <br> Dec 04 | [Neural Networks](assets/471-10-NN.pdf) | Quiz QR code at End of Slide| [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)
+| Mon <br> Dec 04 | [Neural Networks](assets/471-10-NN-v2.pdf) | Quiz QR code at End of Slide| [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)
 | Wed <br> Dec 06 | Planning (without uncertainty) | | |
 | **Week 16** | | | |
 | Mon <br> Dec 11 | Reinforcement Learning/Probabilistic Planning | |
