@@ -129,7 +129,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Nov 29 | [Support Vector Machines](assets/471-09-ML-03.pdf) | |
 | **Week 15** |  | | |
 | Mon <br> Dec 04 | [Neural Networks](assets/471-10-NN-v2.pdf) | Quiz QR code at End of Slide| [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)
-| Wed <br> Dec 06 | Planning (without uncertainty) | | |
+| Wed <br> Dec 06 | [Planning (without uncertainty)](assets/471-11-Planning.pdf) | | |
 | **Week 16** | | | |
 | Mon <br> Dec 11 | Reinforcement Learning/Probabilistic Planning | |
 | Wed <br> Dec 13 | Study Day <br> No Classes | | |
