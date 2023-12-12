@@ -81,6 +81,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 > Abbreviations refer to the following:
 > - RN: Russel/Norvig
 > - PM: [DAVID L. POOLE & ALAN K. MACKWORTH, ARTIFICIAL INTELLIGENCE 3E, FOUNDATIONS OF COMPUTATIONAL AGENTS](https://artint.info/3e/html/ArtInt3e.html)
+> - RLSB: [Reinforcement Learning, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/RLbook2020.pdf) 
 > - BB: Blackboard
 
 | Date    | Topics  | Notes | Readings |
@@ -123,15 +124,16 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Nov 15 | [Reasoning with BBNs](assets/471-08-bayes-02-v2.pdf) | | RN 13.1, 13.2
 | **Week 13** | | | |
 | Mon <br> Nov 20 | [BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
-| Wed <br> Nov 22 | [Machine Learning: Supervised Learning, Regression](assets/471-09-ML-01.pdf);  [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9af7eb2-66f6-4b2e-8f60-b0c2015948b6) | [Decision Trees, Bagging, Random Forest, Ensemble Learning](assets/471-09-ML-02-Decision-Tree-Ensembling.pdf);  [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) |
+| Wed <br> Nov 22 | [Machine Learning: Supervised Learning, Regression](assets/471-09-ML-01.pdf);  [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9af7eb2-66f6-4b2e-8f60-b0c2015948b6) | |
+||[Decision Trees, Bagging, Random Forest, Ensemble Learning](assets/471-09-ML-02-Decision-Tree-Ensembling.pdf);  [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b)|| RN 19.3
 | **Week 14** | | | |
 | Mon <br> Nov 27 | [Logistic Regression, ML Tools, Evaluation](assets/471-09-ML-02.pdf) |  | [Colab Notebooks](https://drive.google.com/drive/folders/18dC6XVnn0-rBAhmDsbUCc_y2jZtphrpu)
 | Wed <br> Nov 29 | [Support Vector Machines](assets/471-09-ML-03.pdf) | |
 | **Week 15** |  | | |
 | Mon <br> Dec 04 | [Neural Networks](assets/471-10-NN-v3.pdf) | Quiz QR code at End of Slide| [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)
-| Wed <br> Dec 06 | [Planning (without uncertainty)](assets/471-11-Planning-v2.pdf) | | |
+| Wed <br> Dec 06 | [Planning (without uncertainty)](assets/471-11-Planning-v2.pdf) | |  RN 11.1, 11.2-11.2.1, 11.3; PM 6.2, 6.3
 | **Week 16** | | | |
-| Mon <br> Dec 11 | [Reinforcement Learning/Probabilistic Planning](assets/471-11-rl.pdf) | |
+| Mon <br> Dec 11 | [Reinforcement Learning/Probabilistic Planning](assets/471-11-rl.pdf) | | RN 17.1, 17.2.1 <!--[RLSB 3 (except 3.4)](http://incompleteideas.net/book/RLbook2020.pdf),  [RLSB 4 - 4.2, 4.4](http://incompleteideas.net/book/RLbook2020.pdf) ;;; [PM 12.5.4](https://artint.info/3e/html/ArtInt3e.Ch12.S5.html)-->
 | Wed <br> Dec 13 | Study Day <br> No Classes | | |
 | **Week 17** | | | |
 | Fri <br> Dec 15 | *Final Exam* | | |
