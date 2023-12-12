@@ -130,7 +130,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Nov 27 | [Logistic Regression, ML Tools, Evaluation](assets/471-09-ML-02.pdf) | [Colab Notebooks](https://drive.google.com/drive/folders/18dC6XVnn0-rBAhmDsbUCc_y2jZtphrpu)  | RN 19
 | Wed <br> Nov 29 | [Support Vector Machines](assets/471-09-ML-03.pdf) | | RN 19.7
 | **Week 15** |  | | |
-| Mon <br> Dec 04 | [Neural Networks](assets/471-10-NN-v3.pdf) | [Quiz Link](https://pollev.com/surveys/wtmGXJySwLID7I1NQ7imn/respond), [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P), [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939) |  RN 21
+| Mon <br> Dec 04 | [Neural Networks](assets/471-10-NN-v3.pdf) | [Quiz Link](https://pollev.com/surveys/wtmGXJySwLID7I1NQ7imn/respond), [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) |  RN 21, [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
 | Wed <br> Dec 06 | [Planning (without uncertainty)](assets/471-11-Planning-v2.pdf) | |  RN 11.1, 11.2-11.2.1, 11.3; PM 6.2, 6.3
 | **Week 16** | | | |
 | Mon <br> Dec 11 | [Reinforcement Learning/Probabilistic Planning](assets/471-11-rl.pdf) | | RN 17.1, 17.2.1 <!--[RLSB 3 (except 3.4)](http://incompleteideas.net/book/RLbook2020.pdf),  [RLSB 4 - 4.2, 4.4](http://incompleteideas.net/book/RLbook2020.pdf) ;;; [PM 12.5.4](https://artint.info/3e/html/ArtInt3e.Ch12.S5.html)-->
