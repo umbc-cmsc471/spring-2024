@@ -171,7 +171,7 @@ bottom-up agglomerative vs. top-down divisive -->
     - MLP: Multi-layer perceptron
     - Feed Forward networks
     - RNN/LSTM: recurrent neural network
-    - CNN: convoluted neural network
+    - CNN: convoluted neural network ([Notes](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939))
         - Convolution and pooling layers
         - Why we need activation?
         - What is kernel and how is it different from weights?
