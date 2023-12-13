@@ -74,6 +74,13 @@ I am providing some sample exams. Courtesy of Dr. Tim Finin from his previous of
 
 <!-- * Properties of Kernel -->
 
+# Final exam
+## The Fall 2023 final exam will be given at: 15th Dec from 6-8 pm in AD 101.
+
+<!-- The exam will mostly focus on topics covered after Midterm. It may reference materials covered before midterm in the questions, in the same manner as they were relevant during current topic discussions in lectures. -->
+
+The final will be comprehensive with more emphasis on material since the midterm exam. Review the slides we showed in class, the homework assignments, and the sample exams.
+
 ### Chapter 7, 8: Logical Agents 7.1-7.7; 8.1-8.3; 9.1;
 
 - Understand how an agent can use logic to model its environment, make decisions and achieve goals, e.g. a player in the Wumpus World
@@ -124,7 +131,7 @@ I am providing some sample exams. Courtesy of Dr. Tim Finin from his previous of
 
 - supervised vs. unsupervised ML
 - Tasks: regression and classification
-- Regression: linear and logistic
+- Regression: linear and logistic/maxent models
 - Decision trees
     - entropy and information gain
     - ID3 algorithm using information gain
@@ -135,21 +142,53 @@ I am providing some sample exams. Courtesy of Dr. Tim Finin from his previous of
     - use of kernels
     - margin and support vectors
     - soft margin for allowing non-separable data
-Tools
-numpy array basics
-ML methodology
-Separate training and development, test and validation data
-k-fold cross validation
-Metrics: precision, recall, accuracy, F1
-Learning curve
-Confusion matrix
-ML ensembling
-bagging, various ways
-random forest of decision trees
-Advantages
-Unsupervised ML
+    - SVM performance and use
+- Tools
+    - numpy array basics and difference between numpy and scipy
+- ML methodology
+    - Separate training and development, test and validation data
+    - k-fold cross validation
+    - Metrics: precision, recall, accuracy, F1
+    - Learning curve
+    - Confusion matrix
+- ML ensembling
+    - bagging, various ways
+    - random forest of decision trees
+    - Advantages
+<!-- Unsupervised ML
 Clustering data
 k-means clustering
 hierarchical clustering
 dendogram
-bottom-up agglomerative vs. top-down divisive
+bottom-up agglomerative vs. top-down divisive -->
+
+
+### Chapter 21: Neural Networks 21.1-8; 
+
+- Basic elements: nodes (inputs, hidden layers, outputs), connections, weights, activation function
+- Types of neural networks and their advantages./disadvantages/purpose
+    - Basic perceptron (single layer, step activation function)
+    - MLP: Multi-layer perceptron
+    - Feed Forward networks
+    - RNN/LSTM: recurrent neural network
+    - CNN: convoluted neural network
+        - Convolution and pooling layers
+        - Why we need activation?
+        - What is kernel and how is it different from weights?
+        - How are the final features created?
+    - Transformers (use and backbone)
+- Fine tuning and Transfer Learning
+- Training process
+    - Loss function
+    - Backpropagation
+    - Activation functions (step, ReLu, sigmoid, tanh)
+    - batches and epochs
+    - dropout
+- Awareness of tools (High-level idea)
+    - Tensorflow/Pytorch vs Keras
+- Advantages and disadvantages of neural networks for supervised machine learning compared to other methods (e.g., decision trees, SVM)
+
+
+Here are old exams that you can use as examples of what to expect. The content has varied over the years, so you should ignore anything that we did not cover this semester.
+- [2016](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring23/02/exams/f2016a.pdf) (with [answers](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring23/02/exams/f2016a.pdf))
+- [2018](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring23/02/exams/f2018.pdf) (with [answers](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring23/02/exams/f2018a.pdf))
