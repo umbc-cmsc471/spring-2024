@@ -74,4 +74,82 @@ I am providing some sample exams. Courtesy of Dr. Tim Finin from his previous of
 
 <!-- * Properties of Kernel -->
 
+### Chapter 7, 8: Logical Agents 7.1-7.7; 8.1-8.3; 9.1;
 
+- Understand how an agent can use logic to model its environment, make decisions and achieve goals, e.g. a player in the Wumpus World
+- Understand the syntax and semantics of propositional logic
+- Understand the concept of a model for a set of propositional sentences
+- Understand the concept of a valid sentence (tautology) and an inconsistent sentence
+- Know how to find all models entailed by a set of propositions
+- Understand the concepts of soundness and completeness for a logic reasoner
+- Understand the resolution inference rule and how a resolution theorem prover works
+<!-- - Know what a Horn clause is in propositional logic, how to determine if a proposition sentence is a Horn clause and why Horn clauses are significant -->
+- Conjunctive Normal Form
+- know how to convert a set of propositional sentences to conjunctive normal form and then to use resolution to try to prove if an additional propositional sentence is true
+- Understand the limitation of propositional logic as a representation and reasoning tool
+- Know what it means for a proposition/KB to be satisfiable
+- Understand first order logic (FOL), it's notation(s) and quantifiers
+- Understand how FOL differs from higher-order logics
+- Be able to represent the meaning of an English sentence in FOL and to paraphrase a FOL sentence in English
+
+### Chapter 11: Planning (without uncertainty) -- RN 11.1, 11.2-11.2.1, 11.3; PM 6.2, 6.3
+
+- Understand the blocks world domain
+- Understand classical strips planning
+- State-space planning algorithms and heuristics
+- Be familiar with the PDDL planning representation
+
+### Chapter 17: Reinforcement Learning (Planning with uncertainty) -- RN 17.1, 17.2.1
+- Markov Decision Process: Formalizing Reinforcement Learning
+- Expected Discounted Reward
+- Value Iteration Algorithm
+- Optimal Value Function and Optimal Policy
+
+### Chapter 12: Bayesian reasoning 12.1-12.7; 
+
+- Basic probability notation
+- Full joint probabilities
+- Independence, marginal, and conditional probabilities
+- Bayes rule and how it can be used
+- Simple naive Bayesian models
+
+### Chapter 13: Bayesian reasoning: RN 13.1, 13.2; PM 9.5, 10.2
+
+- Bayesian belief networks
+- Variable Elimination
+- Maximum Likelihood Estimation
+
+
+### Chapter 19: Learning from Examples 19.1-4, 19.6, 19.7-9; 
+
+- supervised vs. unsupervised ML
+- Tasks: regression and classification
+- Regression: linear and logistic
+- Decision trees
+    - entropy and information gain
+    - ID3 algorithm using information gain
+    - pruning
+    - advantages and disadvantages of decision trees
+- Support Vector Machine (SVM)
+    - linear separability of data
+    - use of kernels
+    - margin and support vectors
+    - soft margin for allowing non-separable data
+Tools
+numpy array basics
+ML methodology
+Separate training and development, test and validation data
+k-fold cross validation
+Metrics: precision, recall, accuracy, F1
+Learning curve
+Confusion matrix
+ML ensembling
+bagging, various ways
+random forest of decision trees
+Advantages
+Unsupervised ML
+Clustering data
+k-means clustering
+hierarchical clustering
+dendogram
+bottom-up agglomerative vs. top-down divisive
