@@ -109,8 +109,7 @@ The final will be comprehensive with more emphasis on material since the midterm
 ### Chapter 17: Reinforcement Learning (Planning with uncertainty) -- RN 17.1, 17.2.1
 - Markov Decision Process: Formalizing Reinforcement Learning
 - Expected Discounted Reward
-- Value Iteration Algorithm
-- Optimal Value Function and Optimal Policy
+- Basic idea of Value Iteration Algorithm, Optimal Value Function and Optimal Policy (**There will be no simulation question asked for RL**)
 
 ### Chapter 12: Bayesian reasoning 12.1-12.7; 
 
