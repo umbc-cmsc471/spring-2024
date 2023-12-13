@@ -127,7 +127,7 @@ The final will be comprehensive with more emphasis on material since the midterm
 - Maximum Likelihood Estimation
 
 
-### Chapter 19: Learning from Examples 19.1-4, 19.6, 19.7-9; 
+### Chapter 19: Learning from Examples 19.1-4, 19.6, 19.7.5-9; 
 
 - supervised vs. unsupervised ML
 - Tasks: regression and classification
