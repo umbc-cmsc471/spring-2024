@@ -123,7 +123,7 @@ The final will be comprehensive with more emphasis on material since the midterm
 
 - Bayesian belief networks
 - Variable Elimination
-- Maximum Likelihood Estimation
+- Maximum Likelihood Estimation (Advanced topics and slides after that are not part of the syallabus)
 
 
 ### Chapter 19: Learning from Examples 19.1-4, 19.6, 19.7.5-9; 
@@ -171,10 +171,10 @@ bottom-up agglomerative vs. top-down divisive -->
     - Feed Forward networks
     - RNN/LSTM: recurrent neural network
     - CNN: convoluted neural network ([Notes](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939))
-        - Convolution and pooling layers
+        <!-- - Convolution and pooling layers
         - Why we need activation?
         - What is kernel and how is it different from weights?
-        - How are the final features created?
+        - How are the final features created? -->
     - Transformers (use and backbone)
 - Fine tuning and Transfer Learning
 - Training process
