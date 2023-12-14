@@ -103,7 +103,7 @@ The final will be comprehensive with more emphasis on material since the midterm
 
 - Understand the blocks world domain
 - Understand classical strips planning
-- State-space planning algorithms and heuristics
+- State-space planning algorithms and heuristics 
 - Be familiar with the PDDL planning representation
 
 ### Chapter 17: Reinforcement Learning (Planning with uncertainty) -- RN 17.1, 17.2.1
@@ -142,8 +142,8 @@ The final will be comprehensive with more emphasis on material since the midterm
     - margin and support vectors
     - soft margin for allowing non-separable data
     - SVM performance and use
-- Tools
-    - numpy array basics and difference between numpy and scipy
+<!-- - Tools
+    - numpy array basics and difference between numpy and scipy -->
 - ML methodology
     - Separate training and development, test and validation data
     - k-fold cross validation
