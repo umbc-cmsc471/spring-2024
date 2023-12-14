@@ -142,8 +142,6 @@ The final will be comprehensive with more emphasis on material since the midterm
     - margin and support vectors
     - soft margin for allowing non-separable data
     - SVM performance and use
-<!-- - Tools
-    - numpy array basics and difference between numpy and scipy -->
 - ML methodology
     - Separate training and development, test and validation data
     - k-fold cross validation
@@ -160,6 +158,8 @@ k-means clustering
 hierarchical clustering
 dendogram
 bottom-up agglomerative vs. top-down divisive -->
+<!-- - Tools
+    - numpy array basics and difference between numpy and scipy -->
 
 
 ### Chapter 21: Neural Networks 21.1-8; 
@@ -170,7 +170,7 @@ bottom-up agglomerative vs. top-down divisive -->
     - MLP: Multi-layer perceptron
     - Feed Forward networks
     - RNN/LSTM: recurrent neural network
-    - CNN: convoluted neural network ([Notes](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939))
+    - CNN: convoluted neural network <!-- ([Notes](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)) -->
         <!-- - Convolution and pooling layers
         - Why we need activation?
         - What is kernel and how is it different from weights?
