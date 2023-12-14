@@ -170,11 +170,7 @@ bottom-up agglomerative vs. top-down divisive -->
     - MLP: Multi-layer perceptron
     - Feed Forward networks
     - RNN/LSTM: recurrent neural network
-    - CNN: convoluted neural network <!-- ([Notes](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)) -->
-        <!-- - Convolution and pooling layers
-        - Why we need activation?
-        - What is kernel and how is it different from weights?
-        - How are the final features created? -->
+    - CNN: convoluted neural network 
     - Transformers (use and backbone)
 - Fine tuning and Transfer Learning
 - Training process
@@ -186,6 +182,12 @@ bottom-up agglomerative vs. top-down divisive -->
 - Awareness of tools (High-level idea)
     - Tensorflow/Pytorch vs Keras
 - Advantages and disadvantages of neural networks for supervised machine learning compared to other methods (e.g., decision trees, SVM)
+
+<!-- ([Notes](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)) -->
+<!-- - Convolution and pooling layers
+        - Why we need activation?
+        - What is kernel and how is it different from weights?
+        - How are the final features created? -->
 
 
 Here are old exams that you can use as examples of what to expect. The content has varied over the years, so you should ignore anything that we did not cover this semester.
