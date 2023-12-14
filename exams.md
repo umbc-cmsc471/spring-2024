@@ -157,9 +157,7 @@ Clustering data
 k-means clustering
 hierarchical clustering
 dendogram
-bottom-up agglomerative vs. top-down divisive -->
-<!-- - Tools
-    - numpy array basics and difference between numpy and scipy -->
+bottom-up agglomerative vs. top-down divisive - Tools - numpy array basics and difference between numpy and scipy -->
 
 
 ### Chapter 21: Neural Networks 21.1-8; 
