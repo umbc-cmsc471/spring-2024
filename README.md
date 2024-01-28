@@ -88,8 +88,6 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | :------           | :------                                                                   | :------   | :------   |
 | **Week 1** | | | |
 | Mon <br> Jan 29  | [Course Overview: Administrivia and What is AI?](assets/471-01-intro-v02.pdf) | [Survey](https://PollEv.com/surveys/W7ZNnGE7LSnIfIyL2SuFE/respond)| RN1  
-| **Week 2** | | | |
-<!-- | Mon <br> Sep 04 | Labor Day <br> No Classes | | | -->
 | Wed <br> Jan 31 | [Agents, and Agent Architectures](assets/471-02-ai-agents.pdf) |  | RN2, PM [2.1](https://artint.info/3e/html/ArtInt3e.Ch2.S1.html), [2.2](https://artint.info/3e/html/ArtInt3e.Ch2.S2.html)
 | **Week 3** | | | |
 | Mon <br> Feb 5 | [Problem solving as search](assets/471-03-search-01.pdf) | **Quiz 01** is out in BB | RN 3.1-3.3 
