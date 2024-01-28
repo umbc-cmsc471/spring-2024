@@ -89,20 +89,22 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 1** | | | |
 | Mon <br> Jan 29  | [Course Overview: Administrivia and What is AI?](assets/471-01-intro-v02.pdf) | [Survey](https://PollEv.com/surveys/W7ZNnGE7LSnIfIyL2SuFE/respond)| RN1  
 | Wed <br> Jan 31 | [Agents, and Agent Architectures](assets/471-02-ai-agents.pdf) |  | RN2, PM [2.1](https://artint.info/3e/html/ArtInt3e.Ch2.S1.html), [2.2](https://artint.info/3e/html/ArtInt3e.Ch2.S2.html)
-| **Week 3** | | | |
+
+| **Week 2** | | | |
 | Mon <br> Feb 5 | [Problem solving as search](assets/471-03-search-01.pdf) | **Quiz 01** is out in BB | RN 3.1-3.3 
 | Wed <br> Feb 7 | [Uninformed search](assets/471-03-search-02.pdf) |  | RN 3.4                          <!-- Class# 4 -->
-| Fri <br> Feb 12 |  | Quiz 01 is due on 09/14; **Quiz 02** is out in BB  | |     
+
+| **Week 3** | | | |    
+| Mon <br> Feb 12 | [Informed search: Heuristic Search](assets/471-03-search-03.pdf) | | RN 3.5
+| Wed <br> Feb 14 | [Informed search: A* Search](assets/471-03-search-04.pdf)  | **HW1 is out in BB**  | RN 3.5, [Route-Finding-Example](assets/images/Route-Finding.png), [A\*-Search-on-Route-Finding](assets/images/Route-Finding-A*.png), [PM 3.7](https://artint.info/3e/html/ArtInt3e.Ch3.S7.html) <!-- Local and Online Search -->
+
 | **Week 4** | | | |
-| Mon <br> Feb 14 | [Informed search: Heuristic Search](assets/471-03-search-03.pdf) | | RN 3.5
-| Wed <br> Feb 19 | [Informed search: A* Search](assets/471-03-search-04.pdf)  | **HW1 is out in BB**  | RN 3.5, [Route-Finding-Example](assets/images/Route-Finding.png), [A\*-Search-on-Route-Finding](assets/images/Route-Finding-A*.png), [PM 3.7](https://artint.info/3e/html/ArtInt3e.Ch3.S7.html) <!-- Local and Online Search -->
-| **Week 5** | Constraints | | |
-| Mon <br> Feb 21  | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
-| Wed <br> Feb 26 | Class Cancelled | |
-| **Week 6** | | | |
+| Wed <br> Feb 19  | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
+| Wed <br> Feb 21  | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
+| **Week 5** | | | |
 | Mon <br> Feb 28 | [Local and Online Search, Genetic Algorithm](assets/471-04-local-search-v2.pdf) |  | RN 4.1, 4.5
 | Wed <br> Mar 4 | [Constraint Satisfaction Problem](assets/471-05-CSP-1.pdf) | [CSP Demos](https://inst.eecs.berkeley.edu/~cs188/fa21/assets/demos/csp/csp_demos.html)| RN 6.1                                               <!-- Class# 10 -->
-| **Week 7** | | | |
+| **Week 6** | | | |
 | Mon <br> Mar 6 | [Constraint Propagation, Backtracking search for CSPs](assets/471-05-CSP-2.pptx) | | RN 6.2-6.3.2                                   <!--Adversarial Search (Games), Game Theory-->
 | Wed <br> Mar 18 | [Local search and Structure Improvement for CSPs](assets/471-05-CSP-3.pdf)| [csp_python](assets/csp_python.pdf), **HW2 is out in BB**| RN 6.4-6.5.2
 | **Week 8** | | | <!--Reasoning Agents, Release video lectures, self study--> | 
@@ -131,10 +133,11 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> May 8 | [Neural Networks](assets/471-10-NN-v3.pdf) | [Quiz Link](https://pollev.com/surveys/wtmGXJySwLID7I1NQ7imn/respond), [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) |  RN 21, [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
 | Wed <br> May 13 | [Planning (without uncertainty)](assets/471-11-Planning-v2.pdf) | |  RN 11.1, 11.2-11.2.1, 11.3; PM 6.2, 6.3
 | **Week 16** | | | |
-| Mon <br> May 15 | [Reinforcement Learning/Probabilistic Planning](assets/471-11-rl.pdf) | | RN 17.1, 17.2.1 <!--[RLSB 3 (except 3.4)](http://incompleteideas.net/book/RLbook2020.pdf),  [RLSB 4 - 4.2, 4.4](http://incompleteideas.net/book/RLbook2020.pdf) ;;; [PM 12.5.4](https://artint.info/3e/html/ArtInt3e.Ch12.S5.html)-->
-| Wed <br> May 20 | Study Day <br> No Classes | | |
-| **Week 17** | | | |
-| Fri <br> May 22 | *Final Exam* | | |
+<!-- | Mon <br> May 15 | [Reinforcement Learning/Probabilistic Planning](assets/471-11-rl.pdf) | | RN 17.1, 17.2.1  -->
+<!--[RLSB 3 (except 3.4)](http://incompleteideas.net/book/RLbook2020.pdf),  [RLSB 4 - 4.2, 4.4](http://incompleteideas.net/book/RLbook2020.pdf) ;;; [PM 12.5.4](https://artint.info/3e/html/ArtInt3e.Ch12.S5.html)-->
+| Wed <br> May 15 | Study Day <br> No Classes | | |
+<!-- | **Week 17** | | | |
+| Fri <br> May 22 | *Final Exam* | | | -->
 
 
 <!-- ########## -->
