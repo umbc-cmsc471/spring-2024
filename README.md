@@ -87,56 +87,56 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Date    | Topics  | Notes | Readings |
 | :------           | :------                                                                   | :------   | :------   |
 | **Week 1** | | | |
-| Wed <br> Aug 30   | [Course Overview: Administrivia and What is AI?](assets/471-01-intro-v02.pdf) | [Survey](https://PollEv.com/surveys/W7ZNnGE7LSnIfIyL2SuFE/respond)| RN1  
+| Mon <br> Jan 29  | [Course Overview: Administrivia and What is AI?](assets/471-01-intro-v02.pdf) | [Survey](https://PollEv.com/surveys/W7ZNnGE7LSnIfIyL2SuFE/respond)| RN1  
 | **Week 2** | | | |
-| Mon <br> Sep 04 | Labor Day <br> No Classes | | |
-| Wed <br> Sep 06 | [Agents, and Agent Architectures](assets/471-02-ai-agents.pdf) |  | RN2, PM [2.1](https://artint.info/3e/html/ArtInt3e.Ch2.S1.html), [2.2](https://artint.info/3e/html/ArtInt3e.Ch2.S2.html)
+<!-- | Mon <br> Sep 04 | Labor Day <br> No Classes | | | -->
+| Wed <br> Jan 31 | [Agents, and Agent Architectures](assets/471-02-ai-agents.pdf) |  | RN2, PM [2.1](https://artint.info/3e/html/ArtInt3e.Ch2.S1.html), [2.2](https://artint.info/3e/html/ArtInt3e.Ch2.S2.html)
 | **Week 3** | | | |
-| Mon <br> Sep 11 | [Problem solving as search](assets/471-03-search-01.pdf) | **Quiz 01** is out in BB | RN 3.1-3.3 
-| Wed <br> Sep 13 | [Uninformed search](assets/471-03-search-02.pdf) |  | RN 3.4                          <!-- Class# 4 -->
-| Fri <br> Sep 15 |  | Quiz 01 is due on 09/14; **Quiz 02** is out in BB  | |     
+| Mon <br> Feb 5 | [Problem solving as search](assets/471-03-search-01.pdf) | **Quiz 01** is out in BB | RN 3.1-3.3 
+| Wed <br> Feb 7 | [Uninformed search](assets/471-03-search-02.pdf) |  | RN 3.4                          <!-- Class# 4 -->
+| Fri <br> Feb 12 |  | Quiz 01 is due on 09/14; **Quiz 02** is out in BB  | |     
 | **Week 4** | | | |
-| Mon <br> Sep 18 | [Informed search: Heuristic Search](assets/471-03-search-03.pdf) | | RN 3.5
-| Wed <br> Sep 20 | [Informed search: A* Search](assets/471-03-search-04.pdf)  | **HW1 is out in BB**  | RN 3.5, [Route-Finding-Example](assets/images/Route-Finding.png), [A\*-Search-on-Route-Finding](assets/images/Route-Finding-A*.png), [PM 3.7](https://artint.info/3e/html/ArtInt3e.Ch3.S7.html) <!-- Local and Online Search -->
+| Mon <br> Feb 14 | [Informed search: Heuristic Search](assets/471-03-search-03.pdf) | | RN 3.5
+| Wed <br> Feb 19 | [Informed search: A* Search](assets/471-03-search-04.pdf)  | **HW1 is out in BB**  | RN 3.5, [Route-Finding-Example](assets/images/Route-Finding.png), [A\*-Search-on-Route-Finding](assets/images/Route-Finding-A*.png), [PM 3.7](https://artint.info/3e/html/ArtInt3e.Ch3.S7.html) <!-- Local and Online Search -->
 | **Week 5** | Constraints | | |
-| Mon <br> Sep 25 | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
-| Wed <br> Sep 27 | Class Cancelled | |
+| Mon <br> Feb 21  | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
+| Wed <br> Feb 26 | Class Cancelled | |
 | **Week 6** | | | |
-| Mon <br> Oct 02 | [Local and Online Search, Genetic Algorithm](assets/471-04-local-search-v2.pdf) |  | RN 4.1, 4.5
-| Wed <br> Oct 04 | [Constraint Satisfaction Problem](assets/471-05-CSP-1.pdf) | [CSP Demos](https://inst.eecs.berkeley.edu/~cs188/fa21/assets/demos/csp/csp_demos.html)| RN 6.1                                               <!-- Class# 10 -->
+| Mon <br> Feb 28 | [Local and Online Search, Genetic Algorithm](assets/471-04-local-search-v2.pdf) |  | RN 4.1, 4.5
+| Wed <br> Mar 4 | [Constraint Satisfaction Problem](assets/471-05-CSP-1.pdf) | [CSP Demos](https://inst.eecs.berkeley.edu/~cs188/fa21/assets/demos/csp/csp_demos.html)| RN 6.1                                               <!-- Class# 10 -->
 | **Week 7** | | | |
-| Mon <br> Oct 09 | [Constraint Propagation, Backtracking search for CSPs](assets/471-05-CSP-2.pptx) | | RN 6.2-6.3.2                                   <!--Adversarial Search (Games), Game Theory-->
-| Wed <br> Oct 11 | [Local search and Structure Improvement for CSPs](assets/471-05-CSP-3.pdf)| [csp_python](assets/csp_python.pdf), **HW2 is out in BB**| RN 6.4-6.5.2
+| Mon <br> Mar 6 | [Constraint Propagation, Backtracking search for CSPs](assets/471-05-CSP-2.pptx) | | RN 6.2-6.3.2                                   <!--Adversarial Search (Games), Game Theory-->
+| Wed <br> Mar 18 | [Local search and Structure Improvement for CSPs](assets/471-05-CSP-3.pdf)| [csp_python](assets/csp_python.pdf), **HW2 is out in BB**| RN 6.4-6.5.2
 | **Week 8** | | | <!--Reasoning Agents, Release video lectures, self study--> | 
-| Mon <br> Oct 16 | [Games, MiniMax](assets/471-06-games-1.pdf) | | RN 5.1-5.3 <!--Knowledge Representation, Reasoning with Propositional Logic ;; First Order Logic, FOL inference-->
-| Wed <br> Oct 18 | [Stochastic Minimax, MCTS](assets/471-06-games-2.pdf) | [A comprehensive guide to MCTS algorithm with working example](https://youtu.be/UXW2yZndl7U?feature=shared) | RN 5.4,5.5,5.7  
+| Mon <br> Mar 20 | [Games, MiniMax](assets/471-06-games-1.pdf) | | RN 5.1-5.3 <!--Knowledge Representation, Reasoning with Propositional Logic ;; First Order Logic, FOL inference-->
+| Wed <br> Mar 25 | [Stochastic Minimax, MCTS](assets/471-06-games-2.pdf) | [A comprehensive guide to MCTS algorithm with working example](https://youtu.be/UXW2yZndl7U?feature=shared) | RN 5.4,5.5,5.7  
 | **Week 9** | | | | 
-| Mon <br> Oct 23 | *Midterm Discussion* | |
-| Wed <br> Oct 25 | **Midterm Exam** | | |
+| Mon <br> Mar 27 | *Midterm Discussion* | |
+| Wed <br> Apr 1 | **Midterm Exam** | | |
 | **Week 10** | | | |
-| Mon <br> Oct 30 | [Propositional Logic](assets/471-07-logic.pdf) | | RN 7.1-7.7
-| Wed <br> Nov 01 | [First order logic](assets/471-07-logic.pdf) | | RN 8.1-8.3, 9.1
+| Mon <br> Apr 3 | [Propositional Logic](assets/471-07-logic.pdf) | | RN 7.1-7.7
+| Wed <br> Apr 8 | [First order logic](assets/471-07-logic.pdf) | | RN 8.1-8.3, 9.1
 | **Week 11** | | | |
-| Mon <br> Nov 06 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
-| Wed <br> Nov 08 | No Class <!--Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP--> |  | 
+| Mon <br> Apr 10 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
+| Wed <br> Apr 15 | No Class <!--Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP--> |  | 
 | **Week 12** | | | |
-| Mon <br> Nov 13 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01-v2.pdf) | |  RN 12
-| Wed <br> Nov 15 | [Reasoning with BBNs](assets/471-08-bayes-02-v2.pdf) | | RN 13.1, 13.2
+| Mon <br> Apr 17 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01-v2.pdf) | |  RN 12
+| Wed <br> Apr 22 | [Reasoning with BBNs](assets/471-08-bayes-02-v2.pdf) | | RN 13.1, 13.2
 | **Week 13** | | | |
-| Mon <br> Nov 20 | [BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
-| Wed <br> Nov 22 | [Machine Learning: Supervised Learning, Regression](assets/471-09-ML-01.pdf);   |[Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9af7eb2-66f6-4b2e-8f60-b0c2015948b6) | RN 19
+| Mon <br> Apr 24 | [BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
+| Wed <br> Apr 29 | [Machine Learning: Supervised Learning, Regression](assets/471-09-ML-01.pdf);   |[Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9af7eb2-66f6-4b2e-8f60-b0c2015948b6) | RN 19
 ||[Decision Trees, Bagging, Random Forest, Ensemble Learning](assets/471-09-ML-02-Decision-Tree-Ensembling.pdf); |   [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) | RN 19.3, 19.8
 | **Week 14** | | | |
-| Mon <br> Nov 27 | [Logistic Regression, ML Tools, Evaluation](assets/471-09-ML-02.pdf) | [Colab Notebooks](https://drive.google.com/drive/folders/18dC6XVnn0-rBAhmDsbUCc_y2jZtphrpu)  | RN 19
-| Wed <br> Nov 29 | [Support Vector Machines](assets/471-09-ML-03.pdf) | | RN 19.7
+| Mon <br> May 1 | [Logistic Regression, ML Tools, Evaluation](assets/471-09-ML-02.pdf) | [Colab Notebooks](https://drive.google.com/drive/folders/18dC6XVnn0-rBAhmDsbUCc_y2jZtphrpu)  | RN 19
+| Wed <br> May 6 | [Support Vector Machines](assets/471-09-ML-03.pdf) | | RN 19.7
 | **Week 15** |  | | |
-| Mon <br> Dec 04 | [Neural Networks](assets/471-10-NN-v3.pdf) | [Quiz Link](https://pollev.com/surveys/wtmGXJySwLID7I1NQ7imn/respond), [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) |  RN 21, [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
-| Wed <br> Dec 06 | [Planning (without uncertainty)](assets/471-11-Planning-v2.pdf) | |  RN 11.1, 11.2-11.2.1, 11.3; PM 6.2, 6.3
+| Mon <br> May 8 | [Neural Networks](assets/471-10-NN-v3.pdf) | [Quiz Link](https://pollev.com/surveys/wtmGXJySwLID7I1NQ7imn/respond), [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) |  RN 21, [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+| Wed <br> May 13 | [Planning (without uncertainty)](assets/471-11-Planning-v2.pdf) | |  RN 11.1, 11.2-11.2.1, 11.3; PM 6.2, 6.3
 | **Week 16** | | | |
-| Mon <br> Dec 11 | [Reinforcement Learning/Probabilistic Planning](assets/471-11-rl.pdf) | | RN 17.1, 17.2.1 <!--[RLSB 3 (except 3.4)](http://incompleteideas.net/book/RLbook2020.pdf),  [RLSB 4 - 4.2, 4.4](http://incompleteideas.net/book/RLbook2020.pdf) ;;; [PM 12.5.4](https://artint.info/3e/html/ArtInt3e.Ch12.S5.html)-->
-| Wed <br> Dec 13 | Study Day <br> No Classes | | |
+| Mon <br> May 15 | [Reinforcement Learning/Probabilistic Planning](assets/471-11-rl.pdf) | | RN 17.1, 17.2.1 <!--[RLSB 3 (except 3.4)](http://incompleteideas.net/book/RLbook2020.pdf),  [RLSB 4 - 4.2, 4.4](http://incompleteideas.net/book/RLbook2020.pdf) ;;; [PM 12.5.4](https://artint.info/3e/html/ArtInt3e.Ch12.S5.html)-->
+| Wed <br> May 20 | Study Day <br> No Classes | | |
 | **Week 17** | | | |
-| Fri <br> Dec 15 | *Final Exam* | | |
+| Fri <br> May 22 | *Final Exam* | | |
 
 
 <!-- ########## -->
