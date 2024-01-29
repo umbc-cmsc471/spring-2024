@@ -11,7 +11,7 @@ seo:
 <img src="assets/images/UMBC-primary-logo-RGB.png" alt="drawing" width="450"/>
 
 # CMSC 471 — Introduction to Artificial Intelligence 
-# Fall 2023
+# Spring 2024
 {: .no_toc }
 
 <!-- # About -->
@@ -29,26 +29,25 @@ seo:
 ## Logistics 
 
 - Instructor: KMA Solaiman, <mailto:ksolaima@umbc.edu>
-- Teaching assistant: Prasanna Bollineni (<mailto:lakshmb1@umbc.edu>), Shashank Sacheti (<mailto:ssachet1@umbc.edu>)
-<!-- - Grader: -->
-- Lecture time: **MW 2:30-3:45pm** *(01)*, **MW 5:30-6:45pm** *(02)*
-- Location: `SONDHEIM 103` (01), `ENGG 022` (02)
+- Teaching assistant:  Aidin Shiri, <mailto:GS29333@umbc.edu>
+- Grader: Apoorv Bansal (<mailto:ZK39815@umbc.edu>)
+- Lecture time: **MW 1:00-2:15pm** *(01)*, **MW 4:00-5:15pm** *(02)*
+- Location: `SONDHEIM 111` (01), `SONDHEIM 108` (02)
 - Credit Hours: 3.00
-- Q&A, Course discussion and announcements: [Campuswire](https://campuswire.com/c/G38B2595B/feed)
+- Q&A, Course discussion and announcements: [Campuswire](https://campuswire.com/p/GC3E869BC)
 - For any sensitive issue, please email me (<mailto:ksolaima@umbc.edu>), preferrably with a subject preceded by `CMSC471-concern`.
-- Exam and assignment submissions: [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#)
+- Exam and assignment submission: [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#) and [Gradescope](https://www.gradescope.com/courses/724876).
 - Office hours
-  - `Wed 1-2pm, or by appointment` *(more if needed)*,  ITE 201-C, KMA Solaiman 
-  - `Mon 11:30-12:30pm, or by appointment`, ITE 334, Prasanna Bollineni
-  - `Wed 12-1pm, or by appointment`, ITE 334, Shashank Sacheti
+  - `TBD, or by appointment`, ITE 201-C, KMA Solaiman 
+  - `TBD, or by appointment`, ITE 334, Aidin Shiri
+  <!-- - `TBD, or by appointment`, ITE 334, Shashank Sacheti -->
 
-> **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/c/G38B2595B/feed).
-<!-- and [Gradescope](https://www.gradescope.com/courses/417566). -->
+> **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/p/GC3E869BC) and [Gradescope](https://www.gradescope.com/courses/724876).
 
 ## Course Description
 
-This course serves as an introduction to Artificial Intelligence concepts and techniques. We will cover most of the material in our text, [Artificial Intelligence: A Modern Approach (4th edition)](http://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig. The topics covered will include problem-solving approaches, problem spaces and search, knowledge representation and reasoning, logic and deduction, planning, expert systems, handling uncertainty, learning and natural language understanding. 
-<!-- Other special or current topics (e.g., fairness and ethics in AI) may be covered as well. -->
+This course serves as an introduction to Artificial Intelligence concepts and techniques. We will cover most of the material in our text, [Artificial Intelligence: A Modern Approach (4th edition)](http://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig. The topics covered will include AI systems and search, problem-solving approaches, knowledge representation and reasoning, logic and deduction, game playing, planning, expert systems, handling uncertainty, machine learning and natural language understanding. 
+Other special or current topics (e.g., fairness and ethics in AI) may be covered as well.
 
 The goals for this course are:
 - be introduced to some of the core problems and solutions of artificial intelligence (AI);
@@ -77,76 +76,77 @@ This is an upper-level undergraduate level Computer Science course and we will a
 <!-- ########## -->
 
 ## Course Schedule
-> This syllabus and schedule is preliminary and subject to change.
+> This syllabus and schedule is preliminary and subject to change. We will adapt this as we go along. Check this every week.
+> It is recommened you go through the readings before the class to have a better understanding of the material.
 > Abbreviations refer to the following:
 > - RN: Russel/Norvig
-> - PM: [DAVID L. POOLE & ALAN K. MACKWORTH, ARTIFICIAL INTELLIGENCE 3E, FOUNDATIONS OF COMPUTATIONAL AGENTS](https://artint.info/3e/html/ArtInt3e.html)
+> - PM: [David L. Poole & Alan K. Macworth, ARTIFICIAL INTELLIGENCE 3E, FOUNDATIONS OF COMPUTATIONAL AGENTS](https://artint.info/3e/html/ArtInt3e.html)
 > - RLSB: [Reinforcement Learning, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/RLbook2020.pdf) 
 > - BB: Blackboard
 
 | Date    | Topics  | Notes | Readings |
 | :------           | :------                                                                   | :------   | :------   |
 | **Week 1** | | | |
-| Mon <br> Jan 29  | [Course Overview: Administrivia and What is AI?](assets/471-01-intro-v02.pdf) | [Survey](https://PollEv.com/surveys/W7ZNnGE7LSnIfIyL2SuFE/respond)| RN1  
-| Wed <br> Jan 31 | [Agents, and Agent Architectures](assets/471-02-ai-agents.pdf) |  | RN2, PM [2.1](https://artint.info/3e/html/ArtInt3e.Ch2.S1.html), [2.2](https://artint.info/3e/html/ArtInt3e.Ch2.S2.html)
-
+| Mon <br> Jan 29  | Course Overview: Administrivia and What is AI?<br>[Slides](assets/471-01-intro-v02.pdf) | | RN1  
+| Wed <br> Jan 31 | [Agents, and Agent Architectures]<br>[Slides.v2](assets/471-02-ai-agents.pdf) |  | RN2, PM [2.1](https://artint.info/3e/html/ArtInt3e.Ch2.S1.html), [2.2](https://artint.info/3e/html/ArtInt3e.Ch2.S2.html)
 | **Week 2** | | | |
-| Mon <br> Feb 5 | [Problem solving as search](assets/471-03-search-01.pdf) | **Quiz 01** is out in BB | RN 3.1-3.3 
+| Mon <br> Feb 5 | [Problem solving as search](assets/471-03-search-01.pdf) | | RN 3.1-3.3 
 | Wed <br> Feb 7 | [Uninformed search](assets/471-03-search-02.pdf) |  | RN 3.4                          <!-- Class# 4 -->
-
 | **Week 3** | | | |    
 | Mon <br> Feb 12 | [Informed search: Heuristic Search](assets/471-03-search-03.pdf) | | RN 3.5
-| Wed <br> Feb 14 | [Informed search: A* Search](assets/471-03-search-04.pdf)  | **HW1 is out in BB**  | RN 3.5, [Route-Finding-Example](assets/images/Route-Finding.png), [A\*-Search-on-Route-Finding](assets/images/Route-Finding-A*.png), [PM 3.7](https://artint.info/3e/html/ArtInt3e.Ch3.S7.html) <!-- Local and Online Search -->
-
+| Wed <br> Feb 14 | [Informed search: A* Search](assets/471-03-search-04.pdf)  |  | RN 3.5, [Route-Finding-Example](assets/images/Route-Finding.png), [A\*-Search-on-Route-Finding](assets/images/Route-Finding-A*.png), [PM 3.7](https://artint.info/3e/html/ArtInt3e.Ch3.S7.html) <!-- Local and Online Search -->
 | **Week 4** | | | |
-| Wed <br> Feb 19  | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
+| Mon <br> Feb 19  | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
 | Wed <br> Feb 21  | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
 | **Week 5** | | | |
-| Mon <br> Feb 28 | [Local and Online Search, Genetic Algorithm](assets/471-04-local-search-v2.pdf) |  | RN 4.1, 4.5
-| Wed <br> Mar 4 | [Constraint Satisfaction Problem](assets/471-05-CSP-1.pdf) | [CSP Demos](https://inst.eecs.berkeley.edu/~cs188/fa21/assets/demos/csp/csp_demos.html)| RN 6.1                                               <!-- Class# 10 -->
+| Mon <br> Feb 26 | [Local and Online Search, Genetic Algorithm](assets/471-04-local-search-v2.pdf) |  | RN 4.1, 4.5
+| Wed <br> Feb 28 | [Constraint Satisfaction Problem](assets/471-05-CSP-1.pdf) | [CSP Demos](https://inst.eecs.berkeley.edu/~cs188/fa21/assets/demos/csp/csp_demos.html)| RN 6.1                                               <!-- Class# 10 -->
 | **Week 6** | | | |
-| Mon <br> Mar 6 | [Constraint Propagation, Backtracking search for CSPs](assets/471-05-CSP-2.pptx) | | RN 6.2-6.3.2                                   <!--Adversarial Search (Games), Game Theory-->
-| Wed <br> Mar 18 | [Local search and Structure Improvement for CSPs](assets/471-05-CSP-3.pdf)| [csp_python](assets/csp_python.pdf), **HW2 is out in BB**| RN 6.4-6.5.2
-| **Week 8** | | | <!--Reasoning Agents, Release video lectures, self study--> | 
-| Mon <br> Mar 20 | [Games, MiniMax](assets/471-06-games-1.pdf) | | RN 5.1-5.3 <!--Knowledge Representation, Reasoning with Propositional Logic ;; First Order Logic, FOL inference-->
-| Wed <br> Mar 25 | [Stochastic Minimax, MCTS](assets/471-06-games-2.pdf) | [A comprehensive guide to MCTS algorithm with working example](https://youtu.be/UXW2yZndl7U?feature=shared) | RN 5.4,5.5,5.7  
+| Mon <br> Mar 4 | [Constraint Propagation, Backtracking search for CSPs](assets/471-05-CSP-2.pptx) | | RN 6.2-6.3.2                                   <!--Adversarial Search (Games), Game Theory-->
+| Wed <br> Mar 6 | [Local search and Structure Improvement for CSPs](assets/471-05-CSP-3.pdf)| [csp_python](assets/csp_python.pdf)| RN 6.4-6.5.2
+| **Week 7** | | | <!--Reasoning Agents, Release video lectures, self study--> | 
+| Mon <br> Mar 11 | [Games, MiniMax](assets/471-06-games-1.pdf) | | RN 5.1-5.3 <!--Knowledge Representation, Reasoning with Propositional Logic ;; First Order Logic, FOL inference-->
+| Wed <br> Mar 13 | [Stochastic Minimax, MCTS](assets/471-06-games-2.pdf) | [A comprehensive guide to MCTS algorithm with working example](https://youtu.be/UXW2yZndl7U?feature=shared) | RN 5.4,5.5,5.7  
+| **Week 8** | | | | 
+| | **Spring Break** | | | 
 | **Week 9** | | | | 
-| Mon <br> Mar 27 | *Midterm Discussion* | |
-| Wed <br> Apr 1 | **Midterm Exam** | | |
+| Mon <br> Mar 25 | *Midterm Discussion* | |
+| Wed <br> Mar 27 | **Midterm Exam** | | |
 | **Week 10** | | | |
-| Mon <br> Apr 3 | [Propositional Logic](assets/471-07-logic.pdf) | | RN 7.1-7.7
-| Wed <br> Apr 8 | [First order logic](assets/471-07-logic.pdf) | | RN 8.1-8.3, 9.1
+| Mon <br> Apr 1 | [Propositional Logic](assets/471-07-logic.pdf) | | RN 7.1-7.7
+| Wed <br> Apr 3 | [First order logic](assets/471-07-logic.pdf) | | RN 8.1-8.3, 9.1
 | **Week 11** | | | |
-| Mon <br> Apr 10 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
-| Wed <br> Apr 15 | No Class <!--Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP--> |  | 
+| Mon <br> Apr 8 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
+| Wed <br> Apr 10 | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP |  | 
 | **Week 12** | | | |
-| Mon <br> Apr 17 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01-v2.pdf) | |  RN 12
-| Wed <br> Apr 22 | [Reasoning with BBNs](assets/471-08-bayes-02-v2.pdf) | | RN 13.1, 13.2
+| Mon <br> Apr 15 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01-v2.pdf) | |  RN 12
+| Wed <br> Apr 17 | [Reasoning with BBNs](assets/471-08-bayes-02-v2.pdf) | | RN 13.1, 13.2
 | **Week 13** | | | |
-| Mon <br> Apr 24 | [BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
-| Wed <br> Apr 29 | [Machine Learning: Supervised Learning, Regression](assets/471-09-ML-01.pdf);   |[Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9af7eb2-66f6-4b2e-8f60-b0c2015948b6) | RN 19
+| Mon <br> Apr 22 | [BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
+| Wed <br> Apr 24 | [Machine Learning: Supervised Learning, Regression](assets/471-09-ML-01.pdf);   |[Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9af7eb2-66f6-4b2e-8f60-b0c2015948b6) | RN 19
 ||[Decision Trees, Bagging, Random Forest, Ensemble Learning](assets/471-09-ML-02-Decision-Tree-Ensembling.pdf); |   [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) | RN 19.3, 19.8
 | **Week 14** | | | |
-| Mon <br> May 1 | [Logistic Regression, ML Tools, Evaluation](assets/471-09-ML-02.pdf) | [Colab Notebooks](https://drive.google.com/drive/folders/18dC6XVnn0-rBAhmDsbUCc_y2jZtphrpu)  | RN 19
-| Wed <br> May 6 | [Support Vector Machines](assets/471-09-ML-03.pdf) | | RN 19.7
+| Mon <br> Apr 29 | [Logistic Regression, ML Tools, Evaluation](assets/471-09-ML-02.pdf) | [Colab Notebooks](https://drive.google.com/drive/folders/18dC6XVnn0-rBAhmDsbUCc_y2jZtphrpu)  | RN 19
+| Wed <br> May 1 | [Support Vector Machines](assets/471-09-ML-03.pdf) | | RN 19.7
 | **Week 15** |  | | |
-| Mon <br> May 8 | [Neural Networks](assets/471-10-NN-v3.pdf) | [Quiz Link](https://pollev.com/surveys/wtmGXJySwLID7I1NQ7imn/respond), [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) |  RN 21, [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
-| Wed <br> May 13 | [Planning (without uncertainty)](assets/471-11-Planning-v2.pdf) | |  RN 11.1, 11.2-11.2.1, 11.3; PM 6.2, 6.3
+| Mon <br> May 6 | [Neural Networks](assets/471-10-NN-v3.pdf) |  [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) |  RN 21, [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+| Wed <br> May 8 | [Planning (without uncertainty)](assets/471-11-Planning-v2.pdf) | |  RN 11.1, 11.2-11.2.1, 11.3; PM 6.2, 6.3
 | **Week 16** | | | |
-<!-- | Mon <br> May 15 | [Reinforcement Learning/Probabilistic Planning](assets/471-11-rl.pdf) | | RN 17.1, 17.2.1  -->
-<!--[RLSB 3 (except 3.4)](http://incompleteideas.net/book/RLbook2020.pdf),  [RLSB 4 - 4.2, 4.4](http://incompleteideas.net/book/RLbook2020.pdf) ;;; [PM 12.5.4](https://artint.info/3e/html/ArtInt3e.Ch12.S5.html)-->
+| Mon <br> May 13 | [Reinforcement Learning/Probabilistic Planning](assets/471-11-rl.pdf) | | RN 17.1, 17.2.1 <!--[RLSB 3 (except 3.4)](http://incompleteideas.net/book/RLbook2020.pdf),  [RLSB 4 - 4.2, 4.4](http://incompleteideas.net/book/RLbook2020.pdf) ;;; [PM 12.5.4](https://artint.info/3e/html/ArtInt3e.Ch12.S5.html)-->
 | Wed <br> May 15 | Study Day <br> No Classes | | |
-<!-- | **Week 17** | | | |
-| Fri <br> May 22 | *Final Exam* | | | -->
+| **Week 17** | | | |
+| <!--Date--> | *Final Exam* | | |
 
 
 <!-- ########## -->
 
-## Assignments
-TBA
+<!-- ## Assignments
+TBA -->
 
 ## Midterm and Final Exams
 The material covered by the exams will be drawn from assigned readings in the text, from lectures, from quizzes, and from the homework. Material from the readings that is not covered in class is fair game, so you are advised to keep up with the readings.
+
+An exam guide will be posted before the exams. 
 
 <!-- ## Code -->
 <!-- Tim Finin -->
@@ -154,20 +154,21 @@ The material covered by the exams will be drawn from assigned readings in the te
 
 ## Course Evaluation
 
-Grades will be based on your performance in quizzes, five or six homework assignments, a mid-term examination and a final examination.  The overall evaluation is as follows:
+Grades will be based on your performance in quizzes/homeworks, 5-6 programming assignments, a mid-term examination and a final examination.  The overall evaluation is as follows:
 <!-- The exact weight will be set at the end of the course, but the expected breakdown is: quizzes: 10%; homework: 45%; midterm: 20%; final: 25%.  -->
 
 |Component| %|
 | :------------------ | :---: | 
-|Quizzes |10%|
-|Assignments |45%|
-|Exams |40%|
+|Quizzes/ Homeworks |15%|
+|Programming Assignments |40%|
+|Midterm |15-20%|
+|Final |20-25%|
 |Course Engagement |5%|
 
-“Course engagement” consists of, e.g., asking questions, participating in discussions (in class or
-online), responding to surveys or checkpointing questions, etc.). In absence of quizzes, the percentage would redirect to course engagement.
+“Course engagement” consists of, e.g., asking/answering questions and participating in discussiong (in class, or online), responding to surveys or checkpointing questions, participating in in-class quizzes, etc. 
+<!-- In absence of quizzes, the percentage would redirect to course engagement. -->
 
-As per University policy, incompletes will be granted only under extraordinary circumstances; students who are enrolled after the last day to drop a class should be prepared to receive a grade of A-F.
+<!-- As per University policy, incompletes will be granted only under extraordinary circumstances; students who are enrolled after the last day to drop a class should be prepared to receive a grade of A-F. -->
  <!-- We may have a few quizzes on Blackboard based on the reading. Answering the quiz questions should be easy if you have done the reading. -->
 
 
@@ -183,6 +184,8 @@ There will a number of short homework assignments -- at least six and perhaps as
 |70| C|
 |60| D|
 |0| F|
+
+As per University policy, incompletes will be granted only under extraordinary circumstances; students who are enrolled after the last day to drop a class should be prepared to receive a grade of A-F.
 
 
 <!-- ########## -->
@@ -257,7 +260,7 @@ you use does not actually implement what you are directed to implement.
 Use of AI/automatic tools for grammatical assistance (such as spell-checkers or Grammarly) or small-scale predictive text (e.g., next word prediction, tab completion) is okay. Provided the use of these tools does not change the substance of your work, use of these tools may be, but is not required to be, disclosed.
 
 **Be sure to properly acknowledge whatever external help—be it from students, third party libraries, or other readings—you receive in the beginning of each assignment.** Please review this overview of [how to correctly cite
-a source](http://www.lib.duke.edu/libguide/bib_journals.htm) and these guidelines on [acceptable paraphrasing](http://www.indiana.edu/~wts/wts/plagiarism.html).
+a source](https://owl.purdue.edu/owl/research_and_citation/apa6_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html) and these guidelines on [acceptable paraphrasing](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing) or [here](https://libguides.lib.miamioh.edu/c.php?g=22165&p=3357957#:~:text=Acceptable%20paraphrasing%20expresses%20an%20idea,sentence%20is%20considered%20unacceptable%20paraphrasing).
 
 <!-- Written answers on essay questions for homeworks and papers must be your
 own work. If you wish to quote a source, you must do so explicitly,
@@ -453,7 +456,7 @@ Just the Class requires no special Jekyll plugins and can run on GitHub Pages' s
 
 This class borrows inspirations from several incredible sources.
 <!-- The final project structure and accompanying instructions are inspired and adapted from my Ph.D. advisor, Jen Rexford's COS 561 class of Fall 2020 at Princeton and Nick McKeown's CS 244 class at Stanford. -->
-The lecture slides' material is partially adapted from my colleagues, Tim Finin and Frank Ferraro's class at UMBC.
+The lecture slides' material is partially adapted from my colleagues, Tim Finin and Frank Ferraro's class at UMBC, and CS188 from UC Berkeley.
 
 <!-- Programming assignment 1 is based on a similar assignment offered at Princeton by Nick Feamster. -->
 
