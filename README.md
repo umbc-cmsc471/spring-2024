@@ -34,11 +34,11 @@ seo:
 - Lecture time: **MW 1:00-2:15pm** *(01)*, **MW 4:00-5:15pm** *(02)*
 - Location: `SONDHEIM 111` (01), `SONDHEIM 108` (02)
 - Credit Hours: 3.00
-- Q&A, Course discussion and announcements: [Campuswire](https://campuswire.com/p/GC3E869BC)
+- Q&A, Course discussion and announcements: [Campuswire](https://campuswire.com/c/GC3E869BC)
 - For any sensitive issue, please email me (<mailto:ksolaima@umbc.edu>), preferrably with a subject preceded by `CMSC471-concern`.
 - Exam and assignment submission: [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#) and [Gradescope](https://www.gradescope.com/courses/724876).
 - Office hours
-  - `TBD, or by appointment`, ITE 201-C, KMA Solaiman 
+  - `Tue 5:45 - 6:30 PM, Wed 3-3:45 PM, or by appointment`, ITE 201-C, KMA Solaiman 
   - `TBD, or by appointment`, ITE 334, Aidin Shiri
   <!-- - `TBD, or by appointment`, ITE 334, Shashank Sacheti -->
 
