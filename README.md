@@ -90,7 +90,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Jan 29  | Course Overview: Administrivia and What is AI?<br>[Slides](assets/471-01-intro.pdf) | | RN1  
 | Wed <br> Jan 31 | [Agents, and Agent Architectures]<br>[Slides.v2](assets/471-02-ai-agents.v2.pdf), [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ac55ce37-e854-44d9-aa41-b1090174c71e) | [worksheet](assets/worksheets/471-worksheet01.docx) | RN2 <!-- , PM [2.1](https://artint.info/3e/html/ArtInt3e.Ch2.S1.html), [2.2](https://artint.info/3e/html/ArtInt3e.Ch2.S2.html) -->
 | **Week 2** | | | |
-| Mon <br> Feb 5 | Problem solving as search <br>[Slides](assets/471-03-search-01.pdf) | | RN 3.1-3.3 
+| Mon <br> Feb 5 | Problem solving as search <br>[Slides.v2](assets/471-03-search-01.v2.pdf) | | RN 3.1-3.3 
 | Wed <br> Feb 7 | [Uninformed search](assets/471-03-search-02.pdf) |  | RN 3.4                          <!-- Class# 4 -->
 | **Week 3** | | | |    
 | Mon <br> Feb 12 | [Informed search: Heuristic Search](assets/471-03-search-03.pdf) | | RN 3.5
