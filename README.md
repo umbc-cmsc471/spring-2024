@@ -91,7 +91,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Jan 31 | [Agents, and Agent Architectures]<br>[Slides.v2](assets/471-02-ai-agents.v2.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ac55ce37-e854-44d9-aa41-b1090174c71e) | [worksheet](assets/worksheets/471-worksheet01.docx) | RN2 <!-- , PM [2.1](https://artint.info/3e/html/ArtInt3e.Ch2.S1.html), [2.2](https://artint.info/3e/html/ArtInt3e.Ch2.S2.html) -->
 | **Week 2** | | | |
 | Mon <br> Feb 5 | Problem solving as search <br>[Slides.v2](assets/471-03-search-01.v2.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd517131-4117-4ee5-bad2-b10e0018d5ef) | **HW1 is released on BB** | RN 3.1-3.3 
-| Wed <br> Feb 7 | Uninformed search <br>[Slides.v2](assets/471-03-search-02.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9b9cb90-ebb9-4c2e-80e6-b1100023dbb4)  |  | RN 3.4                          <!-- Class# 4 -->
+| Wed <br> Feb 7 | Uninformed search <br>[Slides.v2](assets/471-03-search-02.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9b9cb90-ebb9-4c2e-80e6-b1100023dbb4)  | [PA0](assets/PA0/Python_Tutorial.ipynb) | RN 3.4                          <!-- Class# 4 -->
 | **Week 3** | | | |    
 | Mon <br> Feb 12 | [Informed search: Heuristic Search](assets/471-03-search-03.pdf) | **HW1 is due** | RN 3.5
 | Wed <br> Feb 14 | [Informed search: A* Search](assets/471-03-search-04.pdf)  |  | RN 3.5, [Route-Finding-Example](assets/images/Route-Finding.png), [A\*-Search-on-Route-Finding](assets/images/Route-Finding-A*.png), [PM 3.7](https://artint.info/3e/html/ArtInt3e.Ch3.S7.html) <!-- Local and Online Search -->
