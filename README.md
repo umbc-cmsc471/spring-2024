@@ -93,7 +93,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Feb 5 | Problem solving as search <br>[Slides.v2](assets/471-03-search-01.v2.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd517131-4117-4ee5-bad2-b10e0018d5ef) | **HW1 is released on BB** | RN 3.1-3.3 
 | Wed <br> Feb 7 | Uninformed search <br>[Slides.v2](assets/471-03-search-02.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9b9cb90-ebb9-4c2e-80e6-b1100023dbb4)  | [PA0](assets/PA0/Python_Tutorial.ipynb) | RN 3.4                          <!-- Class# 4 -->
 | **Week 3** | | | |    
-| Mon <br> Feb 12 | [Informed search: Heuristic Search](assets/471-03-search-03.pdf) | **HW1 is due** | RN 3.5
+| Mon <br> Feb 12 | Informed search: Heuristic Search <br>[Slides](assets/471-03-search-03.pdf) | **HW1 is due** | RN 3.5
 | Wed <br> Feb 14 | [Informed search: A* Search](assets/471-03-search-04.pdf)  |  | RN 3.5, [Route-Finding-Example](assets/images/Route-Finding.png), [A\*-Search-on-Route-Finding](assets/images/Route-Finding-A*.png), [PM 3.7](https://artint.info/3e/html/ArtInt3e.Ch3.S7.html) <!-- Local and Online Search -->
 | **Week 4** | | | |
 | Mon <br> Feb 19  | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
