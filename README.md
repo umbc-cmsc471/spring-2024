@@ -96,7 +96,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Feb 12 | Informed search: Heuristic Search <br>[Slides.v2](assets/471-03-search-03.v2.pdf) | **HW1 is due** | RN 3.5
 | Wed <br> Feb 14 | Informed search: A* Search<br>[Slides.v3](assets/471-03-search-04.v3.pdf) // [Class-Notes](assets/471-03-search-04.v3-annotated.pdf)  | **PA1 is out in BB** | RN 3.5, [PM 3.7](https://artint.info/3e/html/ArtInt3e.Ch3.S7.html) <!-- Local and Online Search -->
 | **Week 4** | | | |
-| Mon <br> Feb 19  | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
+| Mon <br> Feb 19  | [Local and Online Search](assets/471-04-local-search.pdf) | [p8](assets/pa1/pa1_p8.pdf), [AIMA-search](assets/pa1/AIMA-search.pdf), [pa1-heuristics](assets/pa1/pa1_heuristics.pdf) | RN 4.1
 | Wed <br> Feb 21  | [Local and Online Search](assets/471-04-local-search-v2.pdf) | [04_p8](assets/04_p8.pdf), [AIMA-search](assets/AIMA-search.pptx) | RN 4.1
 | **Week 5** | | **PA1 is due on Sunday 02/25** | |
 | Mon <br> Feb 26 | [Local and Online Search, Genetic Algorithm](assets/471-04-local-search-v2.pdf) |  | RN 4.1, 4.5
