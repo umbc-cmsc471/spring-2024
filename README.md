@@ -97,13 +97,13 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Feb 14 | Informed search: A* Search<br>[Slides.v3](assets/471-03-search-04.v3.pdf) // [Class-Notes](assets/471-03-search-04.v3-annotated.pdf)  | **PA1 is out in BB** | RN 3.5, [PM 3.7](https://artint.info/3e/html/ArtInt3e.Ch3.S7.html) <!-- Local and Online Search -->
 | **Week 4** | | | |
 | Mon <br> Feb 19  | Local and Online Search<br>[Slides](assets/471-04-local-search.pdf) | [p8](assets/PA1/pa1_p8.pdf), [AIMA-search](assets/PA1/pa1_AIMA_search.pdf), [pa1-heuristics](assets/PA1/pa1_heuristics.pdf) | RN 4.1
-| Wed <br> Feb 21  |  |  | RN 4.1 <!--4.5-->
+| Wed <br> Feb 21  | [Constraint Satisfaction Problem](assets/471-05-CSP-1.pdf) | [CSP Demos](https://inst.eecs.berkeley.edu/~cs188/fa21/assets/demos/csp/csp_demos.html)| RN 6.1  
 | **Week 5** | | **PA1 is due on Sunday 02/25** | |
-| Mon <br> Feb 26 | [Constraint Satisfaction Problem](assets/471-05-CSP-1.pdf) | [CSP Demos](https://inst.eecs.berkeley.edu/~cs188/fa21/assets/demos/csp/csp_demos.html)| RN 6.1  
-| Wed <br> Feb 28 | [Constraint Propagation, Backtracking search for CSPs](assets/471-05-CSP-2.pptx) | | RN 6.2-6.3.2                                   <!--Adversarial Search (Games), Game Theory-->                                             <!-- Class# 10 -->
+| Mon <br> Feb 26 | [Constraint Propagation, Backtracking search for CSPs](assets/471-05-CSP-2.pptx) | | RN 6.2-6.3.2                                   <!--Adversarial Search (Games), Game Theory-->                                             <!-- Class# 10 -->
+| Wed <br> Feb 28 | [Local search and Structure Improvement for CSPs](assets/471-05-CSP-3.pdf)| [csp_python](assets/csp_python.pdf)| RN 6.4-6.5.2
 | **Week 6** | | | |
-| Mon <br> Mar 4 | [Local search and Structure Improvement for CSPs](assets/471-05-CSP-3.pdf)| [csp_python](assets/csp_python.pdf)| RN 6.4-6.5.2
-| Wed <br> Mar 6 | Adversarial Search (Games), Game Theory/ Papers with search| | 
+| Mon <br> Mar 4 | Adversarial Search (Games), Game Theory/ | | 
+| Wed <br> Mar 6 | Papers with search | |
 | **Week 7** | | | <!--Reasoning Agents, Release video lectures, self study--> | 
 | Mon <br> Mar 11 | [Games, MiniMax](assets/471-06-games-1.pdf) | | RN 5.1-5.3 <!--Knowledge Representation, Reasoning with Propositional Logic ;; First Order Logic, FOL inference-->
 | Wed <br> Mar 13 | [Stochastic Minimax, MCTS](assets/471-06-games-2.pdf) | [A comprehensive guide to MCTS algorithm with working example](https://youtu.be/UXW2yZndl7U?feature=shared) | RN 5.4,5.5,5.7  
