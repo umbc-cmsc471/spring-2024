@@ -100,7 +100,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Feb 21  | Constraint Satisfaction Problem <br>[Slides](assets/471-05-CSP-1.pdf) // [Recording + PA1 discussion](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17b8f929-fd22-40b1-ac12-b11d017929ea) | [CSP Demos](https://inst.eecs.berkeley.edu/~cs188/fa21/assets/demos/csp/csp_demos.html)| RN 6.1  
 | **Week 5** | | **PA1 is due on Sunday 02/25** | |
 | Mon <br> Feb 26 | Constraint Propagation, Backtracking search for CSPs <br>[Slides](assets/471-05-CSP-2.v2.pdf) | PA2-help:[csp_python](assets/PA2/csp_python.pdf) | RN 6.2-6.3.2                                   
-| Wed <br> Feb 28 | [Local search and Structure Improvement for CSPs](assets/471-05-CSP-3.pdf)| | RN 6.4-6.5.2
+| Wed <br> Feb 28 | Local search and Structure Improvement for CSPs <br> [Slides](assets/471-05-CSP-3.pdf)| | RN 6.4-6.5.2
 | **Week 6** | | | |
 | Mon <br> Mar 4 | Adversarial Search (Games), Game Theory/ | | 
 | Wed <br> Mar 6 | Papers with search | |
