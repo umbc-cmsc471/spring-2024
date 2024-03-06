@@ -103,7 +103,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Feb 28 | Local search and Structure Improvement for CSPs <br> [Slides](assets/471-05-CSP-3.pdf)| | RN 6.4-6.5.2
 | **Week 6** | | | |
 | Mon <br> Mar 4 | Games, MiniMax <br>[Slides](assets/471-06-games-1.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a31ead0f-bb39-4f3c-bc23-b129017c87d5) | | RN 5.1-5.3 
-| Wed <br> Mar 6 | [Stochastic Minimax, MCTS](assets/471-06-games-2.pdf) | [A comprehensive guide to MCTS algorithm with working example](https://youtu.be/UXW2yZndl7U?feature=shared) | RN 5.4,5.5,5.7  
+| Wed <br> Mar 6 | Stochastic Minimax, MCTS<br>[Slides](assets/471-06-games-1.pdf)(assets/471-06-games-2.pdf) | [A comprehensive guide to MCTS algorithm with working example](https://youtu.be/UXW2yZndl7U?feature=shared) | RN 5.4,5.5,5.7  
 | **Week 7** | | | | 
 | Mon <br> Mar 11 | Adversarial Search (Games), Game Theory | | <!--Knowledge Representation, Reasoning with Propositional Logic ;; First Order Logic, FOL inference-->
 | Wed <br> Mar 13 | Papers with search | |
