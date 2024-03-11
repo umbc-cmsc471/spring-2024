@@ -107,7 +107,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 7** | | | | 
 | Mon <br> Mar 11 | Monte Carlo Tree Search <br>[Slides](assets/471-06-games-3.pdf), Markov Decision Process <br>[Slides](assets/471-17-RL-1.pdf)   | [A comprehensive guide to MCTS algorithm with working example](https://youtu.be/UXW2yZndl7U?feature=shared); **HW3 is released on BB** |
 | Wed <br> Mar 13 | Papers with search | |
-| **Week 8** | | | **HW3 is due on Friday Mar 15** | 
+| **Week 8** | |**HW3 is due on Friday Mar 15** |  | 
 | | **Spring Break** | | | 
 | **Week 9** | | | | 
 | Mon <br> Mar 25 | *Midterm Discussion* | |
