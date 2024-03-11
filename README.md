@@ -105,9 +105,9 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Mar 4 | Adversarial Search (Games), MiniMax <br>[Slides](assets/471-06-games-1.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a31ead0f-bb39-4f3c-bc23-b129017c87d5) | | RN 5.1-5.3 
 | Wed <br> Mar 6 | Stochastic Minimax, Mutli-agent games <br>[Slides](assets/471-06-games-2.pdf) |  | RN 5.4,5.5,5.7  
 | **Week 7** | | | | 
-| Mon <br> Mar 11 | Monte Carlo Tree Search <br>[Slides](assets/471-06-games-3.pdf), Markov Decision Process <br>[Slides](assets/471-17-RL-1.pdf)   | [A comprehensive guide to MCTS algorithm with working example](https://youtu.be/UXW2yZndl7U?feature=shared) | <!--Knowledge Representation, Reasoning with Propositional Logic ;; First Order Logic, FOL inference-->
+| Mon <br> Mar 11 | Monte Carlo Tree Search <br>[Slides](assets/471-06-games-3.pdf), Markov Decision Process <br>[Slides](assets/471-17-RL-1.pdf)   | [A comprehensive guide to MCTS algorithm with working example](https://youtu.be/UXW2yZndl7U?feature=shared); **HW3 is released on BB** |
 | Wed <br> Mar 13 | Papers with search | |
-| **Week 8** | | | | 
+| **Week 8** | | | **HW3 is due on Friday Mar 15** | 
 | | **Spring Break** | | | 
 | **Week 9** | | | | 
 | Mon <br> Mar 25 | *Midterm Discussion* | |
