@@ -110,7 +110,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 8** | |**HW3 is due on Friday Mar 15** |  | 
 | | **Spring Break** | | | 
 | **Week 9** | | | | 
-| Mon <br> Mar 25 | *Midterm Discussion* | |
+| Mon <br> Mar 25 | **Midterm Discussion**<br> [Slides](assets/midterm-review.pdf) | |
 | Wed <br> Mar 27 | **Midterm Exam** | | |
 | **Week 10** | | | |
 | Mon <br> Apr 1 | [Propositional Logic](assets/471-07-logic.pdf) | | RN 7.1-7.7
@@ -147,6 +147,8 @@ TBA -->
 The material covered by the exams will be drawn from assigned readings in the text, from lectures, from quizzes, and from the homework. Material from the readings that is not covered in class is fair game, so you are advised to keep up with the readings.
 
 An exam guide will be posted before the exams. 
+
+[Midterm Exam Guide]()
 
 <!-- ## Code -->
 <!-- Tim Finin -->
