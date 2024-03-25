@@ -64,5 +64,5 @@ I am providing some sample exams. Some exams are courtesy of Dr. Tim Finin from 
 
 - [2023-fall-midterm-exam](assets/exams/mt23f.pdf) 
 <!-- - [2019-midterm-exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt19.pdf) with [solution](assets/midterm/mt19a.pdf) -->
-- [2018-midterm-exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt18.pdf) with [solution](assets/midterm/mt18a.pdf)
+- [2018-midterm-exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt18.pdf) with [solution](assets/exams/mt18a.pdf)
 
