@@ -55,7 +55,7 @@ Understand the basic frameworks and characteristics of environments and agents i
 
 - Understand the basic characteristics of games
 - Understand and be able to simulate Minimax with and without alpha-beta given a game tree and the values of the static evaluation function on the leaves.
-- Be able to take a game and develop a representation for it and its moves and to describe a reasonable static evaluation function.
+<!-- - Be able to take a game and develop a representation for it and its moves and to describe a reasonable static evaluation function. -->
 - Understand how to handle games with uncertainty.
 - Understanding of MCTS algorithm
 
@@ -65,5 +65,4 @@ I am providing some sample exams. Some exams are courtesy of Dr. Tim Finin from 
 - [2023-fall-midterm-exam](assets/exams/mt23f.pdf) 
 <!-- - [2019-midterm-exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt19.pdf) with [solution](assets/midterm/mt19a.pdf) -->
 - [2018-midterm-exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt18.pdf) with [solution](assets/midterm/mt18a.pdf)
-<!-- - [2017 midterm exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt17.pdf) with [answers](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt17a.pdf)
-- [2016 midterm exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt16.pdf) with [answers](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt16a.pdf) -->
+
