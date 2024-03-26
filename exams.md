@@ -62,7 +62,7 @@ Understand the basic frameworks and characteristics of environments and agents i
 ## <span style="color:blue">Sample Questions </span>
 I am providing some sample exams. Some exams are courtesy of Dr. Tim Finin from his previous offerings. Please ignore the questions about game theory. Some old midterms from CMSC 471 course:
 
-- [2023-fall-midterm-exam](assets/exams/mt23f.pdf) 
+- [2023-fall-midterm-exam](assets/exams/mt23f.pdf) with [solution](assets/exams/mt23fa.pdf)
 <!-- - [2019-midterm-exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt19.pdf) with [solution](assets/midterm/mt19a.pdf) -->
 - [2018-midterm-exam](https://redirect.cs.umbc.edu/courses/undergraduate/471/spring21/02/exams/mt18.pdf) with [solution](assets/exams/mt18a.pdf)
 
