@@ -113,16 +113,15 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Mar 25 | **Midterm Discussion**<br> [Slides](assets/midterm-review.pdf) | |
 | Wed <br> Mar 27 | **Midterm Exam** | | |
 | **Week 10** | | | |
-| Mon <br> Apr 1 | [Propositional Logic](assets/471-07-logic.pdf) | | RN 7.1-7.7
-| Wed <br> Apr 3 | [First order logic](assets/471-07-logic.pdf) | | RN 8.1-8.3, 9.1
+| Mon <br> Apr 1 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01.pdf) | |  RN 12
+| Wed <br> Apr 3 | [Reasoning with BBNs](assets/471-08-bayes-02-v2.pdf) | | RN 13.1, 13.2
 | **Week 11** | | | |
-| Mon <br> Apr 8 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
+| Mon <br> Apr 8 | [BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
 | Wed <br> Apr 10 | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP |  | 
 | **Week 12** | | | |
-| Mon <br> Apr 15 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01.pdf) | |  RN 12
-| Wed <br> Apr 17 | [Reasoning with BBNs](assets/471-08-bayes-02-v2.pdf) | | RN 13.1, 13.2
+| Mon <br> Apr 15 | [Propositional Logic](assets/471-07-logic.pdf) | | RN 7.1-7.7| Wed <br> Apr 17 | [First order logic](assets/471-07-logic.pdf) | | RN 8.1-8.3, 9.1
 | **Week 13** | | | |
-| Mon <br> Apr 22 | [BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
+| Mon <br> Apr 22 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
 | Wed <br> Apr 24 | [Machine Learning: Supervised Learning, Regression](assets/471-09-ML-01.pdf);   |[Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9af7eb2-66f6-4b2e-8f60-b0c2015948b6) | RN 19
 ||[Decision Trees, Bagging, Random Forest, Ensemble Learning](assets/471-09-ML-02-Decision-Tree-Ensembling.pdf); |   [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) | RN 19.3, 19.8
 | **Week 14** | | | |
