@@ -119,7 +119,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Apr 8 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
 | Wed <br> Apr 10 | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP |  | 
 | **Week 12** | | | |
-| Mon <br> Apr 15 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01-v2.pdf) | |  RN 12
+| Mon <br> Apr 15 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01.pdf) | |  RN 12
 | Wed <br> Apr 17 | [Reasoning with BBNs](assets/471-08-bayes-02-v2.pdf) | | RN 13.1, 13.2
 | **Week 13** | | | |
 | Mon <br> Apr 22 | [BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
