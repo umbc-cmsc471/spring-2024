@@ -114,7 +114,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Mar 27 | **Midterm Exam** | | |
 | **Week 10** | | | |
 | Mon <br> Apr 1 | [Probability & Bayesian Reasoning](assets/471-08-bayes-01.pdf) | |  RN 12
-| Wed <br> Apr 3 | [Reasoning with BBNs](assets/471-08-bayes-02-v2.pdf) | | RN 13.1, 13.2
+| Wed <br> Apr 3 | [Reasoning with BBNs](assets/471-08-bayes-02.pdf) | | RN 13.1, 13.2
 | **Week 11** | | | |
 | Mon <br> Apr 8 | [BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation](assets/471-08-bayes-03.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
 | Wed <br> Apr 10 | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP |  | 
