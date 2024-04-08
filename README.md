@@ -116,10 +116,11 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Apr 1 | Probability & Bayesian Reasoning<br> [Slides](assets/471-08-bayes-01.pdf) | |  RN 12
 | Wed <br> Apr 3 | Reasoning with BBNs<br> [Slides](assets/471-08-bayes-02.pdf) | | RN 13.1, 13.2
 | **Week 11** | | | |
-| Mon <br> Apr 8 | BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation <br> [Slides](assets/471-08-bayes-03.v2.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
+| Mon <br> Apr 8 | BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation <br> [Slides.v3](assets/471-08-bayes-03.v3.pdf) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
 | Wed <br> Apr 10 | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP |  | 
 | **Week 12** | | | |
-| Mon <br> Apr 15 | [Propositional Logic](assets/471-07-logic.pdf) | | RN 7.1-7.7| Wed <br> Apr 17 | [First order logic](assets/471-07-logic.pdf) | | RN 8.1-8.3, 9.1
+| Mon <br> Apr 15 | [Propositional Logic](assets/471-07-logic.pdf) | | RN 7.1-7.7
+| Wed <br> Apr 17 | [First order logic](assets/471-07-logic.pdf) | | RN 8.1-8.3, 9.1
 | **Week 13** | | | |
 | Mon <br> Apr 22 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
 | Wed <br> Apr 24 | [Machine Learning: Supervised Learning, Regression](assets/471-09-ML-01.pdf);   |[Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9af7eb2-66f6-4b2e-8f60-b0c2015948b6) | RN 19
