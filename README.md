@@ -135,7 +135,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> May 13 | [Reinforcement Learning/Probabilistic Planning](assets/471-11-rl.pdf) | | RN 17.1, 17.2.1 <!--[RLSB 3 (except 3.4)](http://incompleteideas.net/book/RLbook2020.pdf),  [RLSB 4 - 4.2, 4.4](http://incompleteideas.net/book/RLbook2020.pdf) ;;; [PM 12.5.4](https://artint.info/3e/html/ArtInt3e.Ch12.S5.html)-->
 | Wed <br> May 15 | Study Day <br> No Classes | | |
 | **Week 17** | | | |
-| <!--Date--> | *Final Exam* | | |
+| Mon <br> May 20 | **Final Exam** | 1-3 pm | **PAHB 132** (Performing Arts and Humanities Building) |
 
 
 <!-- ########## -->
