@@ -119,12 +119,11 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Apr 8 | BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation <br> [Slides.v3](assets/471-08-bayes-03.v3.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b695042c-026b-4e8e-82e2-b14c0167925c) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
 | Wed <br> Apr 10 | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP |  | 
 | **Week 12** | | | |
-| Mon <br> Apr 15 | [Propositional Logic](assets/471-07-logic.pdf) | | RN 7.1-7.7
-| Wed <br> Apr 17 | [First order logic](assets/471-07-logic.pdf) | | RN 8.1-8.3, 9.1
+| Mon <br> Apr 15 | Machine Learning: Supervised Learning, Regression <br>[Slides](assets/471-09-ML-01.pdf) | | RN 19
+| Wed <br> Apr 17 |  | |
 | **Week 13** | | | |
 | Mon <br> Apr 22 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
-| Wed <br> Apr 24 | [Machine Learning: Supervised Learning, Regression](assets/471-09-ML-01.pdf);   |[Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9af7eb2-66f6-4b2e-8f60-b0c2015948b6) | RN 19
-||[Decision Trees, Bagging, Random Forest, Ensemble Learning](assets/471-09-ML-02-Decision-Tree-Ensembling.pdf); |   [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) | RN 19.3, 19.8
+| Wed <br> Apr 24 | [Propositional Logic](assets/471-07-logic.pdf). [First order logic](assets/471-07-logic.pdf)    || RN 7.1-7.7. RN 8.1-8.3, 9.1
 | **Week 14** | | | |
 | Mon <br> Apr 29 | [Logistic Regression, ML Tools, Evaluation](assets/471-09-ML-02.pdf) | [Colab Notebooks](https://drive.google.com/drive/folders/18dC6XVnn0-rBAhmDsbUCc_y2jZtphrpu)  | RN 19
 | Wed <br> May 1 | [Support Vector Machines](assets/471-09-ML-03.pdf) | | RN 19.7
