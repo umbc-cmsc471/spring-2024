@@ -117,21 +117,21 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Apr 3 | Reasoning with BBNs<br> [Slides](assets/471-08-bayes-02.pdf) | | RN 13.1, 13.2
 | **Week 11** | | | |
 | Mon <br> Apr 8 | BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation <br> [Slides.v3](assets/471-08-bayes-03.v3.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b695042c-026b-4e8e-82e2-b14c0167925c) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
-| Wed <br> Apr 10 | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP |  | 
+| Wed <br> Apr 10 | Machine Learning: Supervised Learning, Regression <br>[Slides](assets/471-09-ML-01.pdf) |  | RN 19
 | **Week 12** | | | |
-| Mon <br> Apr 15 | Machine Learning: Supervised Learning, Regression <br>[Slides](assets/471-09-ML-01.pdf) | | RN 19
-| Wed <br> Apr 17 |  | |
+| Mon <br> Apr 15 | Logistic Regression <br>[Slides](assets/471-09-ML-01.pdf) <br> ML Tools, Evaluation <br>[Slides](assets/471-09-ML-02.pdf) | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1PAFe3Yv1e3rQAvQC-ZSrF-DF4hsxxr8Q)  | RN 19
+| Wed <br> Apr 17 | Support Vector Machines<br>[Slides](assets/471-09-ML-03.pdf) | | RN 19.7
 | **Week 13** | | | |
-| Mon <br> Apr 22 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
-| Wed <br> Apr 24 | [Propositional Logic](assets/471-07-logic.pdf). [First order logic](assets/471-07-logic.pdf)    || RN 7.1-7.7. RN 8.1-8.3, 9.1
+| Mon <br> Apr 22 | Unsupervised Learning || 
+| Wed <br> Apr 24 | [Neural Networks](assets/471-10-NN-v3.pdf) |  [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) |  RN 21, [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
 | **Week 14** | | | |
-| Mon <br> Apr 29 | [Logistic Regression, ML Tools, Evaluation](assets/471-09-ML-02.pdf) | [Colab Notebooks](https://drive.google.com/drive/folders/18dC6XVnn0-rBAhmDsbUCc_y2jZtphrpu)  | RN 19
-| Wed <br> May 1 | [Support Vector Machines](assets/471-09-ML-03.pdf) | | RN 19.7
+Mon <br> Apr 29 | [Propositional Logic](assets/471-07-logic.pdf)   || RN 7.1-7.7
+| Wed <br> May 1 | [First order logic](assets/471-07-logic.pdf)  || RN 8.1-8.3, 9.1
 | **Week 15** |  | | |
-| Mon <br> May 6 | [Neural Networks](assets/471-10-NN-v3.pdf) |  [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) |  RN 21, [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+| Mon <br> May 6 | [Reasoning, Model Checking, FOL](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) |
 | Wed <br> May 8 | [Planning (without uncertainty)](assets/471-11-Planning-v2.pdf) | |  RN 11.1, 11.2-11.2.1, 11.3; PM 6.2, 6.3
 | **Week 16** | | | |
-| Mon <br> May 13 | [Reinforcement Learning/Probabilistic Planning](assets/471-11-rl.pdf) | | RN 17.1, 17.2.1 <!--[RLSB 3 (except 3.4)](http://incompleteideas.net/book/RLbook2020.pdf),  [RLSB 4 - 4.2, 4.4](http://incompleteideas.net/book/RLbook2020.pdf) ;;; [PM 12.5.4](https://artint.info/3e/html/ArtInt3e.Ch12.S5.html)-->
+| Mon <br> May 13 | Forward checking and Backtracking in FOL, Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP | | 
 | Wed <br> May 15 | Study Day <br> No Classes | | |
 | **Week 17** | | | |
 | Mon <br> May 20 | **Final Exam** | 1-3 pm | **PAHB 132** (Performing Arts and Humanities Building) |
