@@ -119,7 +119,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Apr 8 | BBN Reasoning: Variable Elimination, Maximum Likelihood Estimation <br> [Slides.v3](assets/471-08-bayes-03.v3.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b695042c-026b-4e8e-82e2-b14c0167925c) | [PM](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html) Example 9.27| [PM 9.5](https://artint.info/3e/html/ArtInt3e.Ch9.S5.html), [10.2](https://artint.info/3e/html/ArtInt3e.Ch10.S2.html)
 | Wed <br> Apr 10 | Machine Learning: Supervised Learning, Regression <br>[Slides](assets/471-09-ML-01.pdf) |  | RN 19
 | **Week 12** | | | |
-| Mon <br> Apr 15 | Logistic Regression <br>[Slides](assets/471-09-ML-01.pdf) <br> ML Tools, Evaluation <br>[Slides](assets/471-09-ML-02.pdf) | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1PAFe3Yv1e3rQAvQC-ZSrF-DF4hsxxr8Q), **HW4 is due**  | RN 19
+| Mon <br> Apr 15 | Logistic Regression <br>[Slides](assets/471-09-ML-01.pdf) <br> ML Tools, Evaluation <br>[Slides](assets/471-09-ML-02.pdf) | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/18dC6XVnn0-rBAhmDsbUCc_y2jZtphrpu), **HW4 is due**  | RN 19
 | Wed <br> Apr 17 | Support Vector Machines<br>[Slides](assets/471-09-ML-03.pdf) | **PA3 is released on BB** | RN 19.7
 | **Week 13** | | | |
 | Mon <br> Apr 22 | Decision Tree Learning, Unsupervised Learning| **HW5 is released (Logic and DTL)**| 
