@@ -160,14 +160,14 @@ Grades will be based on your performance in quizzes/homeworks, 5-6 programming a
 
 |Component| %|
 | :------------------ | :---: | 
-|Quizzes/ Homeworks |15%|
-|Programming Assignments |40%|
-|Midterm |15-20%|
-|Final |20-25%|
+|Quizzes/ Homeworks/ PA |55%|
+|Midterm |20%|
+|Final |20%|
 |Course Engagement |5%|
 
 “Course engagement” consists of, e.g., asking/answering questions and participating in discussiong (in class, or online), responding to surveys or checkpointing questions, participating in in-class quizzes, etc. 
 <!-- In absence of quizzes, the percentage would redirect to course engagement. -->
+<!-- |Programming Assignments |40%| -->
 
 <!-- As per University policy, incompletes will be granted only under extraordinary circumstances; students who are enrolled after the last day to drop a class should be prepared to receive a grade of A-F. -->
  <!-- We may have a few quizzes on Blackboard based on the reading. Answering the quiz questions should be easy if you have done the reading. -->
