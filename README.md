@@ -155,12 +155,12 @@ An exam guide will be posted before the exams.
 
 ## Course Evaluation
 
-Grades will be based on your performance in quizzes/homeworks, 5-6 programming assignments, a mid-term examination and a final examination.  The overall evaluation is as follows:
+Grades will be based on your performance in assignments(quizzes/homeworks/programming assignments), a mid-term examination and a final examination.  The overall evaluation is as follows:
 <!-- The exact weight will be set at the end of the course, but the expected breakdown is: quizzes: 10%; homework: 45%; midterm: 20%; final: 25%.  -->
 
 |Component| %|
 | :------------------ | :---: | 
-|Quizzes/ Homeworks/ PA |55%|
+|Assignments|55%|
 |Midterm |20%|
 |Final |20%|
 |Course Engagement |5%|
