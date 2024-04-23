@@ -123,7 +123,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> Apr 17 | Support Vector Machines<br>[Slides](assets/471-09-ML-03.pdf) | **PA3 is released on BB** | RN 19.7
 | **Week 13** | | | |
 | Mon <br> Apr 22 | Cross-Validation, Multiclass P/R/F -- [Slides](assets/471-09-ML-02B.pdf) <br> Decision Tree Learning<br>[Slides](assets/471-09-ML-DT.pdf)| | RN 19.3 / [Tom-Mitchell Chap 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2023/mitchell-DT.pdf)
-| Wed <br> Apr 24 | Unsupervised Learning, [Neural Networks](assets/471-10-NN-v3.pdf) |  [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) <br> **HW5 is released (Logic and DTL)** |  RN 21, [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+| Wed <br> Apr 24 | Unsupervised Learning<br>[Slides](assets/14_6_clustering.pdf), Neural Networks |  [Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) <br> **HW5 is released (Logic and DTL)** |  RN 21, [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
 | **Week 14** | | **PA3 is due on Apr 28**|  |
 | Mon <br> Apr 29 | Neural Networks/ Propositional Logic  ||  <!--**PA4 is released on BB**-->
 | Wed <br> May 1 | [Propositional Logic, First order logic](assets/471-07-logic.pdf)  ||  RN 7.1-7.7, RN 8.1-8.3, 9.1
