@@ -134,7 +134,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> May 13 | Final Exam Review | **HW5 is due** |  <!--Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP-->
 | Wed <br> May 15 | Study Day <br> No Classes | | |
 | **Week 17** | | | |
-| Mon <br> May 20 | **Final Exam** | 1-3 pm | **PAHB 132** (Performing Arts and Humanities Building) |
+| Mon <br> May 20 | **Final Exam** | 1-3 pm // 3:30 -5:30 pm | **PAHB 132** (Performing Arts and Humanities Building) // SOND 105 |
 
 
 <!-- ########## -->
