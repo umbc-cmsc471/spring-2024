@@ -128,10 +128,10 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Mon <br> Apr 29 | Neural Networks<br> [Slides](assets/471-NN.pdf) <br> [Recording-1pm](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2d5ee5d-b38d-4a70-82b0-b1630036b538) <br> [Recording-4pm](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ff5bfdc-e871-4658-b15e-b1630036abf7) |[Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) |   [CNN Blog](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939) <!--**PA4 is released on BB**-->
 | Wed <br> May 1 | Propositional Logic <br>[Slides.v2](assets/471-07-logic.v2.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d93e601-bc58-4e77-b7e4-b16301636863) | |  RN 7.1-7.7
 | **Week 15** |  | | |
-| Mon <br> May 6 | Reasoning <br>[Slide](assets/471-07-logic.02.pdf) <br> First order logic <br>[Slide](assets/471-07-logic-FOL.pdf)| [logic.ipynb](assets/hw3_starter-main/logic.ipynb), [reasoning.ipynb](assets/hw3_starter-main/reasoning.ipynb) | RN 8.1-8.3, 9.1
-| Wed <br> May 8 | [Planning (without uncertainty)](assets/471-11-Planning-v2.pdf) |  |  RN 11.1, 11.2-11.2.1, 11.3; PM 6.2, 6.3
+| Mon <br> May 6 | Reasoning <br>[Slides](assets/471-07-logic.02.pdf) <br> First order logic <br>[Slides](assets/471-07-logic-FOL.pdf)|| RN 8.1-8.3, 9.1
+| Wed <br> May 8 | CNN + Fine-tuning NN <br> [Slides](assets/471-NN.pdf) <br> Planning (w/o uncertainty)<br>[Slides](assets/471-11-Planning.pdf) |  |  RN 11.1, 11.2-11.2.1, 11.3; <!-- PM 6.2, 6.3 -->
 | **Week 16** | | | |
-| Mon <br> May 13 | Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP, Final Exam Review | **HW5 is due** | 
+| Mon <br> May 13 | Final Exam Review | **HW5 is due** |  <!--Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP-->
 | Wed <br> May 15 | Study Day <br> No Classes | | |
 | **Week 17** | | | |
 | Mon <br> May 20 | **Final Exam** | 1-3 pm | **PAHB 132** (Performing Arts and Humanities Building) |
