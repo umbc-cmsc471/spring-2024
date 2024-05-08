@@ -106,10 +106,10 @@ bottom-up agglomerative vs. top-down divisive - Tools - numpy array basics and d
     - Basic perceptron (single layer, step activation function)
     - MLP: Multi-layer perceptron
     - Feed Forward networks
-    - *RNN/LSTM: recurrent neural network*
-    - *CNN: convoluted neural network* 
-    - *Use of Transformers*
-- *Fine tuning and Transfer Learning*
+    - *Use of CNN: convoluted neural network* 
+    - *Use of RNN: recurrent neural network*
+    - ~~Use of Transformers~~
+- ~~Fine tuning and Transfer Learning~~
 - Training process
     - Loss function, Backpropagation (No derivation), Activation functions (step, ReLu, sigmoid, tanh), batches and epochs, dropout
 - Advantages and disadvantages of neural networks for supervised machine learning compared to other methods (e.g., decision trees, SVM)
