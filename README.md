@@ -129,9 +129,9 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Wed <br> May 1 | Propositional Logic <br>[Slides.v2](assets/471-07-logic.v2.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d93e601-bc58-4e77-b7e4-b16301636863) | |  RN 7.1-7.7
 | **Week 15** |  | | |
 | Mon <br> May 6 | Reasoning <br>[Slides](assets/471-07-logic.02.pdf) <br> First order logic <br>[Slides](assets/471-07-logic-FOL.pdf)|| RN 8.1-8.3, 9.1
-| Wed <br> May 8 | CNN + RNN use <br> [Slides](assets/471-CNN-RNN.pdf) <br> Planning (w/o uncertainty)<br>[Slides](assets/471-11-Planning.v2.pdf) |  [Quiz-Link](https://forms.gle/fTRZ9LF1LNzg5UtNA),  |  RN 11.1, 11.2-11.2.1, 11.3; [STRIPS-simulation](https://files.campuswire.com/38b2595b-a4bb-4f29-a6e0-ab14319fb98a/1192f286-72f5-4f7d-bf09-034e2b8a71cb/strips.pdf) (just FYI)  <!-- PM 6.2, 6.3 -->
+| Wed <br> May 8 | CNN + RNN use <br> [Slides](assets/471-CNN-RNN.pdf) <br> Planning (w/o uncertainty)<br>[Slides](assets/471-11-Planning.v2.pdf) <br> [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05c75272-b4ff-47c5-9261-b16f01408d4e) |  [Quiz-Link](https://forms.gle/fTRZ9LF1LNzg5UtNA)  |  RN 11.1, 11.2-11.2.1, 11.3; [STRIPS-simulation](https://files.campuswire.com/38b2595b-a4bb-4f29-a6e0-ab14319fb98a/1192f286-72f5-4f7d-bf09-034e2b8a71cb/strips.pdf) (just FYI)  <!-- PM 6.2, 6.3 -->
 | **Week 16** | | | |
-| Mon <br> May 13 | **Final Exam Review** <br> [Slides](assets/Final-review.pdf) // Recording-1pm // Recording-4pm | **HW5 is due** |  <!--Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP-->
+| Mon <br> May 13 | **Final Exam Review** <br> [Slides](assets/Final-review.pdf) // [Recording-1pm](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8578a7c6-8692-468d-8a41-b16f01404d7a) // [Recording-4pm](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb363d18-a671-48c2-976e-b16f01766023) | **HW5 is due** |  <!--Some AI techniques in ML: Examples of Search, Logic; Constraint Extension: ILP-->
 | Wed <br> May 15 | Study Day <br> No Classes | | |
 | **Week 17** | | | |
 | Mon <br> May 20 | **Final Exam** | 1-3 pm // 3:30 -5:30 pm | **PAHB 132** (Performing Arts and Humanities Building) // SOND 105 |
