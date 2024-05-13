@@ -147,7 +147,7 @@ The material covered by the exams will be drawn from assigned readings in the te
 
 An exam guide will be posted before the exams. 
 
-[Midterm Exam Guide]()
+[Exam Guide](https://umbc-cmsc471.github.io/spring2024/exams/)
 
 <!-- ## Code -->
 <!-- Tim Finin -->
